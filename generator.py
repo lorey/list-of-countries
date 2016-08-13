@@ -30,4 +30,6 @@ for row in country_rows:
     }
     countries.append(country)
 
-print(json.dumps(countries, ensure_ascii=False))
+json_string = json.dumps(countries, ensure_ascii=False)
+with open('json/countries.json', 'w') as file:
+    file.write(json_string)
