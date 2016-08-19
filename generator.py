@@ -1,5 +1,5 @@
+import csv
 import json
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -30,8 +30,15 @@ for row in country_rows:
     }
     countries.append(country)
 
+# csv
+keys = countries[0].keys()
+with open('csv/countries.csv', 'w') as file:
+    dict_writer = csv.DictWriter(file, keys, delimiter=";")
+    dict_writer.writeheader()
+    dict_writer.writerows(countries)
+
 # json
-json_string = json.dumps(countries, ensure_ascii=False)
+json_string = json.dumps(countries, sort_keys=True, ensure_ascii=False)
 with open('json/countries.json', 'w') as file:
     file.write(json_string)
 

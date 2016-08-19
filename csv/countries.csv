@@ -1,0 +1,250 @@
+name;code_alpha_two;code_numeric;code_alpha_three
+Afghanistan;AF;004;AFG
+Åland Islands;AX;248;ALA
+Albania;AL;008;ALB
+Algeria;DZ;012;DZA
+American Samoa;AS;016;ASM
+Andorra;AD;020;AND
+Angola;AO;024;AGO
+Anguilla;AI;660;AIA
+Antarctica;AQ;010;ATA
+Antigua and Barbuda;AG;028;ATG
+Argentina;AR;032;ARG
+Armenia;AM;051;ARM
+Aruba;AW;533;ABW
+Australia;AU;036;AUS
+Austria;AT;040;AUT
+Azerbaijan;AZ;031;AZE
+Bahamas;BS;044;BHS
+Bahrain;BH;048;BHR
+Bangladesh;BD;050;BGD
+Barbados;BB;052;BRB
+Belarus;BY;112;BLR
+Belgium;BE;056;BEL
+Belize;BZ;084;BLZ
+Benin;BJ;204;BEN
+Bermuda;BM;060;BMU
+Bhutan;BT;064;BTN
+Bolivia (Plurinational State of);BO;068;BOL
+Bonaire, Sint Eustatius and Saba;BQ;535;BES
+Bosnia and Herzegovina;BA;070;BIH
+Botswana;BW;072;BWA
+Bouvet Island;BV;074;BVT
+Brazil;BR;076;BRA
+British Indian Ocean Territory;IO;086;IOT
+Brunei Darussalam;BN;096;BRN
+Bulgaria;BG;100;BGR
+Burkina Faso;BF;854;BFA
+Burundi;BI;108;BDI
+Cabo Verde;CV;132;CPV
+Cambodia;KH;116;KHM
+Cameroon;CM;120;CMR
+Canada;CA;124;CAN
+Cayman Islands;KY;136;CYM
+Central African Republic;CF;140;CAF
+Chad;TD;148;TCD
+Chile;CL;152;CHL
+China;CN;156;CHN
+Christmas Island;CX;162;CXR
+Cocos (Keeling) Islands;CC;166;CCK
+Colombia;CO;170;COL
+Comoros;KM;174;COM
+Republic of the Congo;CG;178;COG
+Congo (Democratic Republic of the);CD;180;COD
+Cook Islands;CK;184;COK
+Costa Rica;CR;188;CRI
+Côte d'Ivoire;CI;384;CIV
+Croatia;HR;191;HRV
+Cuba;CU;192;CUB
+Curaçao;CW;531;CUW
+Cyprus;CY;196;CYP
+Czech Republic;CZ;203;CZE
+Denmark;DK;208;DNK
+Djibouti;DJ;262;DJI
+Dominica;DM;212;DMA
+Dominican Republic;DO;214;DOM
+Ecuador;EC;218;ECU
+Egypt;EG;818;EGY
+El Salvador;SV;222;SLV
+Equatorial Guinea;GQ;226;GNQ
+Eritrea;ER;232;ERI
+Estonia;EE;233;EST
+Ethiopia;ET;231;ETH
+Falkland Islands (Malvinas);FK;238;FLK
+Faroe Islands;FO;234;FRO
+Fiji;FJ;242;FJI
+Finland;FI;246;FIN
+France;FR;250;FRA
+French Guiana;GF;254;GUF
+French Polynesia;PF;258;PYF
+French Southern Territories;TF;260;ATF
+Gabon;GA;266;GAB
+Gambia;GM;270;GMB
+Georgia (country);GE;268;GEO
+Germany;DE;276;DEU
+Ghana;GH;288;GHA
+Gibraltar;GI;292;GIB
+Greece;GR;300;GRC
+Greenland;GL;304;GRL
+Grenada;GD;308;GRD
+Guadeloupe;GP;312;GLP
+Guam;GU;316;GUM
+Guatemala;GT;320;GTM
+Guernsey;GG;831;GGY
+Guinea;GN;324;GIN
+Guinea-Bissau;GW;624;GNB
+Guyana;GY;328;GUY
+Haiti;HT;332;HTI
+Heard Island and McDonald Islands;HM;334;HMD
+Vatican City State;VA;336;VAT
+Honduras;HN;340;HND
+Hong Kong;HK;344;HKG
+Hungary;HU;348;HUN
+Iceland;IS;352;ISL
+India;IN;356;IND
+Indonesia;ID;360;IDN
+Iran (Islamic Republic of);IR;364;IRN
+Iraq;IQ;368;IRQ
+Republic of Ireland;IE;372;IRL
+Isle of Man;IM;833;IMN
+Israel;IL;376;ISR
+Italy;IT;380;ITA
+Jamaica;JM;388;JAM
+Japan;JP;392;JPN
+Jersey;JE;832;JEY
+Jordan;JO;400;JOR
+Kazakhstan;KZ;398;KAZ
+Kenya;KE;404;KEN
+Kiribati;KI;296;KIR
+North Korea;KP;408;PRK
+Korea (Republic of);KR;410;KOR
+Kuwait;KW;414;KWT
+Kyrgyzstan;KG;417;KGZ
+Lao People's Democratic Republic;LA;418;LAO
+Latvia;LV;428;LVA
+Lebanon;LB;422;LBN
+Lesotho;LS;426;LSO
+Liberia;LR;430;LBR
+Libya;LY;434;LBY
+Liechtenstein;LI;438;LIE
+Lithuania;LT;440;LTU
+Luxembourg;LU;442;LUX
+Macao;MO;446;MAC
+Republic of Macedonia;MK;807;MKD
+Madagascar;MG;450;MDG
+Malawi;MW;454;MWI
+Malaysia;MY;458;MYS
+Maldives;MV;462;MDV
+Mali;ML;466;MLI
+Malta;MT;470;MLT
+Marshall Islands;MH;584;MHL
+Martinique;MQ;474;MTQ
+Mauritania;MR;478;MRT
+Mauritius;MU;480;MUS
+Mayotte;YT;175;MYT
+Mexico;MX;484;MEX
+Micronesia (Federated States of);FM;583;FSM
+Moldova (Republic of);MD;498;MDA
+Monaco;MC;492;MCO
+Mongolia;MN;496;MNG
+Montenegro;ME;499;MNE
+Montserrat;MS;500;MSR
+Morocco;MA;504;MAR
+Mozambique;MZ;508;MOZ
+Myanmar;MM;104;MMR
+Namibia;NA;516;NAM
+Nauru;NR;520;NRU
+Nepal;NP;524;NPL
+Netherlands;NL;528;NLD
+New Caledonia;NC;540;NCL
+New Zealand;NZ;554;NZL
+Nicaragua;NI;558;NIC
+Niger;NE;562;NER
+Nigeria;NG;566;NGA
+Niue;NU;570;NIU
+Norfolk Island;NF;574;NFK
+Northern Mariana Islands;MP;580;MNP
+Norway;NO;578;NOR
+Oman;OM;512;OMN
+Pakistan;PK;586;PAK
+Palau;PW;585;PLW
+State of Palestine;PS;275;PSE
+Panama;PA;591;PAN
+Papua New Guinea;PG;598;PNG
+Paraguay;PY;600;PRY
+Peru;PE;604;PER
+Philippines;PH;608;PHL
+Pitcairn;PN;612;PCN
+Poland;PL;616;POL
+Portugal;PT;620;PRT
+Puerto Rico;PR;630;PRI
+Qatar;QA;634;QAT
+Réunion;RE;638;REU
+Romania;RO;642;ROU
+Russian Federation;RU;643;RUS
+Rwanda;RW;646;RWA
+Saint Barthélemy;BL;652;BLM
+Saint Helena, Ascension and Tristan da Cunha;SH;654;SHN
+Saint Kitts and Nevis;KN;659;KNA
+Saint Lucia;LC;662;LCA
+Saint Martin (French part);MF;663;MAF
+Saint Pierre and Miquelon;PM;666;SPM
+Saint Vincent and the Grenadines;VC;670;VCT
+Samoa;WS;882;WSM
+San Marino;SM;674;SMR
+Sao Tome and Principe;ST;678;STP
+Saudi Arabia;SA;682;SAU
+Senegal;SN;686;SEN
+Serbia;RS;688;SRB
+Seychelles;SC;690;SYC
+Sierra Leone;SL;694;SLE
+Singapore;SG;702;SGP
+Sint Maarten (Dutch part);SX;534;SXM
+Slovakia;SK;703;SVK
+Slovenia;SI;705;SVN
+Solomon Islands;SB;090;SLB
+Somalia;SO;706;SOM
+South Africa;ZA;710;ZAF
+South Georgia and the South Sandwich Islands;GS;239;SGS
+South Sudan;SS;728;SSD
+Spain;ES;724;ESP
+Sri Lanka;LK;144;LKA
+Sudan;SD;729;SDN
+Suriname;SR;740;SUR
+Svalbard and Jan Mayen;SJ;744;SJM
+Swaziland;SZ;748;SWZ
+Sweden;SE;752;SWE
+Switzerland;CH;756;CHE
+Syrian Arab Republic;SY;760;SYR
+Taiwan, Province of China;TW;158;TWN
+Tajikistan;TJ;762;TJK
+Tanzania, United Republic of;TZ;834;TZA
+Thailand;TH;764;THA
+Timor-Leste;TL;626;TLS
+Togo;TG;768;TGO
+Tokelau;TK;772;TKL
+Tonga;TO;776;TON
+Trinidad and Tobago;TT;780;TTO
+Tunisia;TN;788;TUN
+Turkey;TR;792;TUR
+Turkmenistan;TM;795;TKM
+Turks and Caicos Islands;TC;796;TCA
+Tuvalu;TV;798;TUV
+Uganda;UG;800;UGA
+Ukraine;UA;804;UKR
+United Arab Emirates;AE;784;ARE
+United Kingdom of Great Britain and Northern Ireland;GB;826;GBR
+United States of America;US;840;USA
+United States Minor Outlying Islands;UM;581;UMI
+Uruguay;UY;858;URY
+Uzbekistan;UZ;860;UZB
+Vanuatu;VU;548;VUT
+Venezuela (Bolivarian Republic of);VE;862;VEN
+Viet Nam;VN;704;VNM
+British Virgin Islands;VG;092;VGB
+United States Virgin Islands;VI;850;VIR
+Wallis and Futuna;WF;876;WLF
+Western Sahara;EH;732;ESH
+Yemen;YE;887;YEM
+Zambia;ZM;894;ZMB
+Zimbabwe;ZW;716;ZWE
