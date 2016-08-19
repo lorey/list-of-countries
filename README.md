@@ -1,4 +1,4 @@
-![Picture showing globes with a text that reads: a list of all countries worldwide in json and csv][list-of-countries.jpg]
+![Picture showing globes with a text that reads: a list of all countries worldwide in json and csv][https://github.com/lorey/list-of-countries/raw/master/list-of-countries.jpg]
 
 # List of all countries worldwide
 This is a repository containing lists of all countries worldwide in several formats. The data is taken from
