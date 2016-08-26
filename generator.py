@@ -1,34 +1,76 @@
+import codecs
+import urllib
+
+import requests
+
 import csv
 import json
-import requests
-from bs4 import BeautifulSoup
 
-url = 'https://en.wikipedia.org/wiki/ISO_3166-1'
+# ISO
+# ISO3
+# ISO-Numeric
+# fips
+# Country
+# Capital
+# Area(in sq km)
+# Population
+# Continent
+# tld
+# CurrencyCode
+# CurrencyName
+# Phone
+# Postal Code Format
+# Postal Code Regex
+# Languages
+# geonameid
+# neighbours
+# EquivalentFipsCode
 
-r = requests.get(url)
-page = r.text
-soup = BeautifulSoup(page, 'html.parser')
+mapping = [
+    'alpha_2',
+    'alpha_3',
+    'numeric',
+    'fips',
+    'name',
+    'capital',
+    'area',
+    'population',
+    'continent',
+    'tld',
+    'currency_code',
+    'currency_name',
+    'phone',
+    'postal_code_format',
+    'postal_code_regex',
+    'languages',
+    'geoname_id',
+    'neighbours',
+    'eqivalent_fips_code',
+]
 
-rows = [row for row in soup.table.find_all('tr')]
-country_rows = rows[1:]
 countries = []
-for row in country_rows:
-    columns = row.find_all('td')
+url = "http://download.geonames.org/export/dump/countryInfo.txt"
+ftpstream = urllib.request.urlopen(url)
+reader = codecs.getreader("utf-8")
+reader = csv.reader(reader(ftpstream), delimiter='\t')
 
-    first_column_links = columns[0].find_all('a')
-    name = [a for a in first_column_links if a.has_attr('title')][0]['title']
+for row in reader:
+    if row[0][0] != '#':
+        country = {}
 
-    code_alpha_two = columns[1].text
-    code_alpha_three = columns[2].text
-    code_numeric = columns[3].text
+        # read files from csv and map them to dict
+        for i in range(0, len(row)):
+            csv_row = row[i]
+            csv_row_title = mapping[i]
 
-    country = {
-        'name': name,
-        'code_numeric': code_numeric,
-        'code_alpha_two': code_alpha_two,
-        'code_alpha_three': code_alpha_three,
-    }
-    countries.append(country)
+            country[csv_row_title] = csv_row
+
+        # add missing keys as None
+        for key in mapping:
+            if key not in country:
+                country[key] = None
+
+        countries.append(country)
 
 # csv
 keys = countries[0].keys()

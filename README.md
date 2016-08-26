@@ -2,8 +2,7 @@
 
 # List of all countries worldwide
 This is a repository containing lists of all countries worldwide in several formats. The data is taken from
-[Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1) and thus under
-[CC BY-SA unported license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+[GeoNames](http://www.geonames.org/) and thus under [CC BY license](https://creativecommons.org/licenses/by/2.0/).
 
 ## Formats
 
@@ -14,11 +13,10 @@ The CSV file is located under [csv/countries.csv](csv/countries.csv). It uses se
 commas in the country names. You can open CSV files in almost any spreadsheet software, e.g. Microsoft Excel, Libre
 Office Calc, etc.
 
-    name;code_alpha_two;code_numeric;code_alpha_three
-    Afghanistan;AF;004;AFG
-    Åland Islands;AX;248;ALA
-    Albania;AL;008;ALB
-    Algeria;DZ;012;DZA
+    phone;currency_name;geoname_id;alpha_2;currency_code;neighbours;area;numeric;capital;tld;eqivalent_fips_code;languages;postal_code_format;fips;postal_code_regex;alpha_3;continent;name;population
+    376;Euro;3041565;AD;EUR;ES,FR;468;020;Andorra la Vella;.ad;;ca;AD###;AN;^(?:AD)*(\d{3})$;AND;EU;Andorra;84000
+    971;Dirham;290557;AE;AED;SA,OM;82880;784;Abu Dhabi;.ae;;ar-AE,fa,en,hi,ur;;AE;;ARE;AS;United Arab Emirates;4975593
+    93;Afghani;1149361;AF;AFN;TM,CN,IR,TJ,PK,UZ;647500;004;Kabul;.af;;fa-AF,ps,uz-AF,tk;;AF;;AFG;AS;Afghanistan;29121286
     ...
 
 ### JSON
@@ -27,40 +25,31 @@ The JSON files are located in [json/](json/). There are two versions A readable 
 
     [
         {
-            "code_alpha_three": "AFG",
-            "code_alpha_two": "AF",
-            "code_numeric": "004",
-            "name": "Afghanistan"
-        },
-        {
-            "code_alpha_three": "ALA",
-            "code_alpha_two": "AX",
-            "code_numeric": "248",
-            "name": "Åland Islands"
-        },
-        {
-            "code_alpha_three": "ALB",
-            "code_alpha_two": "AL",
-            "code_numeric": "008",
-            "name": "Albania"
-        },
-        {
-            "code_alpha_three": "DZA",
-            "code_alpha_two": "DZ",
-            "code_numeric": "012",
-            "name": "Algeria"
-        },
-        {
-            "code_alpha_three": "ASM",
-            "code_alpha_two": "AS",
-            "code_numeric": "016",
-            "name": "American Samoa"
+            "alpha_2": "AD",
+            "alpha_3": "AND",
+            "area": "468",
+            "capital": "Andorra la Vella",
+            "continent": "EU",
+            "currency_code": "EUR",
+            "currency_name": "Euro",
+            "eqivalent_fips_code": "",
+            "fips": "AN",
+            "geoname_id": "3041565",
+            "languages": "ca",
+            "name": "Andorra",
+            "neighbours": "ES,FR",
+            "numeric": "020",
+            "phone": "376",
+            "population": "84000",
+            "postal_code_format": "AD###",
+            "postal_code_regex": "^(?:AD)*(\\d{3})$",
+            "tld": ".ad"
         },
         ...
 
 And a compact version: [json/countries.json](json/countries.json)
 
-    [{"code_alpha_three": "AFG", "code_alpha_two": "AF", "code_numeric": "004", "name": "Afghanistan"}, ...
+    [{"alpha_2": "AD", "alpha_3": "AND", "area": "468", "capital": "Andorra la Vella", "continent": "EU", ...
 
 ## Misc
 
