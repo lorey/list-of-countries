@@ -6,26 +6,6 @@ import requests
 import csv
 import json
 
-# ISO
-# ISO3
-# ISO-Numeric
-# fips
-# Country
-# Capital
-# Area(in sq km)
-# Population
-# Continent
-# tld
-# CurrencyCode
-# CurrencyName
-# Phone
-# Postal Code Format
-# Postal Code Regex
-# Languages
-# geonameid
-# neighbours
-# EquivalentFipsCode
-
 mapping = [
     'alpha_2',
     'alpha_3',
@@ -50,9 +30,9 @@ mapping = [
 
 countries = []
 url = "http://download.geonames.org/export/dump/countryInfo.txt"
-ftpstream = urllib.request.urlopen(url)
+stream = urllib.request.urlopen(url)
 reader = codecs.getreader("utf-8")
-reader = csv.reader(reader(ftpstream), delimiter='\t')
+reader = csv.reader(reader(stream), delimiter='\t')
 
 for row in reader:
     if row[0][0] != '#':
