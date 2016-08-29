@@ -69,3 +69,18 @@ with open('json/countries.json', 'w') as file:
 json_string = json.dumps(countries, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
 with open('json/countries-readable.json', 'w') as file:
     file.write(json_string)
+
+# php (I'm sorry)
+php_string = '<?php\n$countries = [\n'
+for country in countries:
+    php_string += '    [\n'
+    for key in sorted(country):
+        value = country[key]
+        if value is not None and value != "":
+            php_string += '        "' + key + '" => "' + value + '",\n'
+        else:
+            php_string += '        "' + key + '" => null,\n'
+    php_string += '    ],\n'
+php_string += '\n];'
+with open('php/array.php', 'w') as file:
+    file.write(php_string)
