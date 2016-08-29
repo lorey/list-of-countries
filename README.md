@@ -87,6 +87,13 @@ $countries = [
     // ...
 ```
 
+## Similar projects
+There are several similar projects you should also check out. Feel free to add yours.
+
+* [mledoze/countries](https://github.com/mledoze/countries): PHP generator, various formats and a lot of data
+* [umpirsky/country-list](https://github.com/umpirsky/country-list): focused on localized versions and ISO only, no generator
+* [fayder/restcountries](https://github.com/fayder/restcountries): Country data provided by a restful API
+
 ## Misc
 
 Picture licensed under CC0 by [Lena Bell](https://unsplash.com/@lenabell?photo=mluSdDeOksc).
