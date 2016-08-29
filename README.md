@@ -90,9 +90,11 @@ $countries = [
 ## Similar projects
 There are several similar projects you should also check out. Feel free to add yours.
 
-* [mledoze/countries](https://github.com/mledoze/countries): PHP generator, various formats and a lot of data
+* [unicode-cldr/cldr-core](https://github.com/unicode-cldr/cldr-core): Lots of JSON data but hard to query and without geoname ids
+* [mledoze/countries](https://github.com/mledoze/countries): PHP generator, various formats and a lot of data but no geoname ids and weird ISO 639-3 codes that are hard to resolve (Austria has "bar" as language which is basically a German dialect)
 * [umpirsky/country-list](https://github.com/umpirsky/country-list): focused on localized versions and ISO only, no generator
-* [fayder/restcountries](https://github.com/fayder/restcountries): Country data provided by a restful API
+* [fayder/restcountries](https://github.com/fayder/restcountries): Country data provided by a restful API (JSON)
+* [datasets/country-codes](https://github.com/datasets/country-codes): CSV data with lots of codes for country representations (stuff like FIFA, IOC, etc.)
 
 ## Misc
 
