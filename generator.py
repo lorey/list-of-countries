@@ -34,7 +34,8 @@ stream = urllib.request.urlopen(url)
 reader = codecs.getreader("utf-8")
 reader = csv.reader(reader(stream), delimiter='\t')
 
-for row in reader:
+non_comment_rows = [row for row in reader if row[0][0] != '#']
+for row in non_comment_rows:
     if row[0][0] != '#':
         country = {}
 
@@ -55,7 +56,7 @@ for row in reader:
 # csv
 keys = countries[0].keys()
 with open('csv/countries.csv', 'w') as file:
-    dict_writer = csv.DictWriter(file, keys, delimiter=";")
+    dict_writer = csv.DictWriter(file, sorted(keys), delimiter=";")
     dict_writer.writeheader()
     dict_writer.writerows(countries)
 

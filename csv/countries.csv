@@ -1,253 +1,253 @@
-phone;currency_name;geoname_id;alpha_2;currency_code;neighbours;area;numeric;capital;tld;eqivalent_fips_code;languages;postal_code_format;fips;postal_code_regex;alpha_3;continent;name;population
-376;Euro;3041565;AD;EUR;ES,FR;468;020;Andorra la Vella;.ad;;ca;AD###;AN;^(?:AD)*(\d{3})$;AND;EU;Andorra;84000
-971;Dirham;290557;AE;AED;SA,OM;82880;784;Abu Dhabi;.ae;;ar-AE,fa,en,hi,ur;;AE;;ARE;AS;United Arab Emirates;4975593
-93;Afghani;1149361;AF;AFN;TM,CN,IR,TJ,PK,UZ;647500;004;Kabul;.af;;fa-AF,ps,uz-AF,tk;;AF;;AFG;AS;Afghanistan;29121286
-+1-268;Dollar;3576396;AG;XCD;;443;028;St. John's;.ag;;en-AG;;AC;;ATG;NA;Antigua and Barbuda;86754
-+1-264;Dollar;3573511;AI;XCD;;102;660;The Valley;.ai;;en-AI;;AV;;AIA;NA;Anguilla;13254
-355;Lek;783754;AL;ALL;MK,GR,ME,RS,XK;28748;008;Tirana;.al;;sq,el;;AL;;ALB;EU;Albania;2986952
-374;Dram;174982;AM;AMD;GE,IR,AZ,TR;29800;051;Yerevan;.am;;hy;######;AM;^(\d{6})$;ARM;AS;Armenia;2968000
-244;Kwanza;3351879;AO;AOA;CD,NA,ZM,CG;1246700;024;Luanda;.ao;;pt-AO;;AO;;AGO;AF;Angola;13068161
-;;6697173;AQ;;;14000000;010;;.aq;;;;AY;;ATA;AN;Antarctica;0
-54;Peso;3865483;AR;ARS;CL,BO,UY,PY,BR;2766890;032;Buenos Aires;.ar;;es-AR,en,it,de,fr,gn;@####@@@;AR;^[A-Z]?\d{4}[A-Z]{0,3}$;ARG;SA;Argentina;41343201
-+1-684;Dollar;5880801;AS;USD;;199;016;Pago Pago;.as;;en-AS,sm,to;;AQ;;ASM;OC;American Samoa;57881
-43;Euro;2782113;AT;EUR;CH,DE,HU,SK,CZ,IT,SI,LI;83858;040;Vienna;.at;;de-AT,hr,hu,sl;####;AU;^(\d{4})$;AUT;EU;Austria;8205000
-61;Dollar;2077456;AU;AUD;;7686850;036;Canberra;.au;;en-AU;####;AS;^(\d{4})$;AUS;OC;Australia;21515754
-297;Guilder;3577279;AW;AWG;;193;533;Oranjestad;.aw;;nl-AW,es,en;;AA;;ABW;NA;Aruba;71566
-+358-18;Euro;661882;AX;EUR;;1580;248;Mariehamn;.ax;FI;sv-AX;#####;;^(?:FI)*(\d{5})$;ALA;EU;Aland Islands;26711
-994;Manat;587116;AZ;AZN;GE,IR,AM,TR,RU;86600;031;Baku;.az;;az,ru,hy;AZ ####;AJ;^(?:AZ)*(\d{4})$;AZE;AS;Azerbaijan;8303512
-387;Marka;3277605;BA;BAM;HR,ME,RS;51129;070;Sarajevo;.ba;;bs,hr-BA,sr-BA;#####;BK;^(\d{5})$;BIH;EU;Bosnia and Herzegovina;4590000
-+1-246;Dollar;3374084;BB;BBD;;431;052;Bridgetown;.bb;;en-BB;BB#####;BB;^(?:BB)*(\d{5})$;BRB;NA;Barbados;285653
-880;Taka;1210997;BD;BDT;MM,IN;144000;050;Dhaka;.bd;;bn-BD,en;####;BG;^(\d{4})$;BGD;AS;Bangladesh;156118464
-32;Euro;2802361;BE;EUR;DE,NL,LU,FR;30510;056;Brussels;.be;;nl-BE,fr-BE,de-BE;####;BE;^(\d{4})$;BEL;EU;Belgium;10403000
-226;Franc;2361809;BF;XOF;NE,BJ,GH,CI,TG,ML;274200;854;Ouagadougou;.bf;;fr-BF;;UV;;BFA;AF;Burkina Faso;16241811
-359;Lev;732800;BG;BGN;MK,GR,RO,TR,RS;110910;100;Sofia;.bg;;bg,tr-BG,rom;####;BU;^(\d{4})$;BGR;EU;Bulgaria;7148785
-973;Dinar;290291;BH;BHD;;665;048;Manama;.bh;;ar-BH,en,fa,ur;####|###;BA;^(\d{3}\d?)$;BHR;AS;Bahrain;738004
-257;Franc;433561;BI;BIF;TZ,CD,RW;27830;108;Bujumbura;.bi;;fr-BI,rn;;BY;;BDI;AF;Burundi;9863117
-229;Franc;2395170;BJ;XOF;NE,TG,BF,NG;112620;204;Porto-Novo;.bj;;fr-BJ;;BN;;BEN;AF;Benin;9056010
-590;Euro;3578476;BL;EUR;;21;652;Gustavia;.gp;;fr;### ###;TB;;BLM;NA;Saint Barthelemy;8450
-+1-441;Dollar;3573345;BM;BMD;;53;060;Hamilton;.bm;;en-BM,pt;@@ ##;BD;^([A-Z]{2}\d{2})$;BMU;NA;Bermuda;65365
-673;Dollar;1820814;BN;BND;MY;5770;096;Bandar Seri Begawan;.bn;;ms-BN,en-BN;@@####;BX;^([A-Z]{2}\d{4})$;BRN;AS;Brunei;395027
-591;Boliviano;3923057;BO;BOB;PE,CL,PY,BR,AR;1098580;068;Sucre;.bo;;es-BO,qu,ay;;BL;;BOL;SA;Bolivia;9947418
-599;Dollar;7626844;BQ;USD;;328;535;;.bq;;nl,pap,en;;;;BES;NA;Bonaire, Saint Eustatius and Saba ;18012
-55;Real;3469034;BR;BRL;SR,PE,BO,UY,GY,PY,GF,VE,CO,AR;8511965;076;Brasilia;.br;;pt-BR,es,en,fr;#####-###;BR;^\d{5}-\d{3}$;BRA;SA;Brazil;201103330
-+1-242;Dollar;3572887;BS;BSD;;13940;044;Nassau;.bs;;en-BS;;BF;;BHS;NA;Bahamas;301790
-975;Ngultrum;1252634;BT;BTN;CN,IN;47000;064;Thimphu;.bt;;dz;;BT;;BTN;AS;Bhutan;699847
-;Krone;3371123;BV;NOK;;49;074;;.bv;;;;BV;;BVT;AN;Bouvet Island;0
-267;Pula;933860;BW;BWP;ZW,ZA,NA;600370;072;Gaborone;.bw;;en-BW,tn-BW;;BC;;BWA;AF;Botswana;2029307
-375;Ruble;630336;BY;BYR;PL,LT,UA,RU,LV;207600;112;Minsk;.by;;be,ru;######;BO;^(\d{6})$;BLR;EU;Belarus;9685000
-501;Dollar;3582678;BZ;BZD;GT,MX;22966;084;Belmopan;.bz;;en-BZ,es;;BH;;BLZ;NA;Belize;314522
-1;Dollar;6251999;CA;CAD;US;9984670;124;Ottawa;.ca;;en-CA,fr-CA,iu;@#@ #@#;CA;^([ABCEGHJKLMNPRSTVXY]\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\d[ABCEGHJKLMNPRSTVWXYZ]\d)$ ;CAN;NA;Canada;33679000
-61;Dollar;1547376;CC;AUD;;14;166;West Island;.cc;;ms-CC,en;;CK;;CCK;AS;Cocos Islands;628
-243;Franc;203312;CD;CDF;TZ,CF,SS,RW,ZM,BI,UG,CG,AO;2345410;180;Kinshasa;.cd;;fr-CD,ln,kg;;CG;;COD;AF;Democratic Republic of the Congo;70916439
-236;Franc;239880;CF;XAF;TD,SD,CD,SS,CM,CG;622984;140;Bangui;.cf;;fr-CF,sg,ln,kg;;CT;;CAF;AF;Central African Republic;4844927
-242;Franc;2260494;CG;XAF;CF,GA,CD,CM,AO;342000;178;Brazzaville;.cg;;fr-CG,kg,ln-CG;;CF;;COG;AF;Republic of the Congo;3039126
-41;Franc;2658434;CH;CHF;DE,IT,LI,FR,AT;41290;756;Bern;.ch;;de-CH,fr-CH,it-CH,rm;####;SZ;^(\d{4})$;CHE;EU;Switzerland;7581000
-225;Franc;2287781;CI;XOF;LR,GH,GN,BF,ML;322460;384;Yamoussoukro;.ci;;fr-CI;;IV;;CIV;AF;Ivory Coast;21058798
-682;Dollar;1899402;CK;NZD;;240;184;Avarua;.ck;;en-CK,mi;;CW;;COK;OC;Cook Islands;21388
-56;Peso;3895114;CL;CLP;PE,BO,AR;756950;152;Santiago;.cl;;es-CL;#######;CI;^(\d{7})$;CHL;SA;Chile;16746491
-237;Franc;2233387;CM;XAF;TD,CF,GA,GQ,CG,NG;475440;120;Yaounde;.cm;;en-CM,fr-CM;;CM;;CMR;AF;Cameroon;19294149
-86;Yuan Renminbi;1814991;CN;CNY;LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN;9596960;156;Beijing;.cn;;zh-CN,yue,wuu,dta,ug,za;######;CH;^(\d{6})$;CHN;AS;China;1330044000
-57;Peso;3686110;CO;COP;EC,PE,PA,BR,VE;1138910;170;Bogota;.co;;es-CO;;CO;;COL;SA;Colombia;47790000
-506;Colon;3624060;CR;CRC;PA,NI;51100;188;San Jose;.cr;;es-CR,en;####;CS;^(\d{4})$;CRI;NA;Costa Rica;4516220
-53;Peso;3562981;CU;CUP;US;110860;192;Havana;.cu;;es-CU;CP #####;CU;^(?:CP)*(\d{5})$;CUB;NA;Cuba;11423000
-238;Escudo;3374766;CV;CVE;;4033;132;Praia;.cv;;pt-CV;####;CV;^(\d{4})$;CPV;AF;Cape Verde;508659
-599;Guilder;7626836;CW;ANG;;444;531; Willemstad;.cw;;nl,pap;;UC;;CUW;NA;Curacao;141766
-61;Dollar;2078138;CX;AUD;;135;162;Flying Fish Cove;.cx;;en,zh,ms-CC;####;KT;^(\d{4})$;CXR;AS;Christmas Island;1500
-357;Euro;146669;CY;EUR;;9250;196;Nicosia;.cy;;el-CY,tr-CY,en;####;CY;^(\d{4})$;CYP;EU;Cyprus;1102677
-420;Koruna;3077311;CZ;CZK;PL,DE,SK,AT;78866;203;Prague;.cz;;cs,sk;### ##;EZ;^\d{3}\s?\d{2}$;CZE;EU;Czechia;10476000
-49;Euro;2921044;DE;EUR;CH,PL,NL,DK,BE,CZ,LU,FR,AT;357021;276;Berlin;.de;;de;#####;GM;^(\d{5})$;DEU;EU;Germany;81802257
-253;Franc;223816;DJ;DJF;ER,ET,SO;23000;262;Djibouti;.dj;;fr-DJ,ar,so-DJ,aa;;DJ;;DJI;AF;Djibouti;740528
-45;Krone;2623032;DK;DKK;DE;43094;208;Copenhagen;.dk;;da-DK,en,fo,de-DK;####;DA;^(\d{4})$;DNK;EU;Denmark;5484000
-+1-767;Dollar;3575830;DM;XCD;;754;212;Roseau;.dm;;en-DM;;DO;;DMA;NA;Dominica;72813
-+1-809 and 1-829;Peso;3508796;DO;DOP;HT;48730;214;Santo Domingo;.do;;es-DO;#####;DR;^(\d{5})$;DOM;NA;Dominican Republic;9823821
-213;Dinar;2589581;DZ;DZD;NE,EH,LY,MR,TN,MA,ML;2381740;012;Algiers;.dz;;ar-DZ;#####;AG;^(\d{5})$;DZA;AF;Algeria;34586184
-593;Dollar;3658394;EC;USD;PE,CO;283560;218;Quito;.ec;;es-EC;@####@;EC;^([a-zA-Z]\d{4}[a-zA-Z])$;ECU;SA;Ecuador;14790608
-372;Euro;453733;EE;EUR;RU,LV;45226;233;Tallinn;.ee;;et,ru;#####;EN;^(\d{5})$;EST;EU;Estonia;1291170
-20;Pound;357994;EG;EGP;LY,SD,IL,PS;1001450;818;Cairo;.eg;;ar-EG,en,fr;#####;EG;^(\d{5})$;EGY;AF;Egypt;80471869
-212;Dirham;2461445;EH;MAD;DZ,MR,MA;266000;732;El-Aaiun;.eh;;ar,mey;;WI;;ESH;AF;Western Sahara;273008
-291;Nakfa;338010;ER;ERN;ET,SD,DJ;121320;232;Asmara;.er;;aa-ER,ar,tig,kun,ti-ER;;ER;;ERI;AF;Eritrea;5792984
-34;Euro;2510769;ES;EUR;AD,PT,GI,FR,MA;504782;724;Madrid;.es;;es-ES,ca,gl,eu,oc;#####;SP;^(\d{5})$;ESP;EU;Spain;46505963
-251;Birr;337996;ET;ETB;ER,KE,SD,SS,SO,DJ;1127127;231;Addis Ababa;.et;;am,en-ET,om-ET,ti-ET,so-ET,sid;####;ET;^(\d{4})$;ETH;AF;Ethiopia;88013491
-358;Euro;660013;FI;EUR;NO,RU,SE;337030;246;Helsinki;.fi;;fi-FI,sv-FI,smn;#####;FI;^(?:FI)*(\d{5})$;FIN;EU;Finland;5244000
-679;Dollar;2205218;FJ;FJD;;18270;242;Suva;.fj;;en-FJ,fj;;FJ;;FJI;OC;Fiji;875983
-500;Pound;3474414;FK;FKP;;12173;238;Stanley;.fk;;en-FK;;FK;;FLK;SA;Falkland Islands;2638
-691;Dollar;2081918;FM;USD;;702;583;Palikir;.fm;;en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg;#####;FM;^(\d{5})$;FSM;OC;Micronesia;107708
-298;Krone;2622320;FO;DKK;;1399;234;Torshavn;.fo;;fo,da-FO;FO-###;FO;^(?:FO)*(\d{3})$;FRO;EU;Faroe Islands;48228
-33;Euro;3017382;FR;EUR;CH,DE,BE,LU,IT,AD,MC,ES;547030;250;Paris;.fr;;fr-FR,frp,br,co,ca,eu,oc;#####;FR;^(\d{5})$;FRA;EU;France;64768389
-241;Franc;2400553;GA;XAF;CM,GQ,CG;267667;266;Libreville;.ga;;fr-GA;;GB;;GAB;AF;Gabon;1545255
-44;Pound;2635167;GB;GBP;IE;244820;826;London;.uk;;en-GB,cy-GB,gd;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;UK;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;GBR;EU;United Kingdom;62348447
-+1-473;Dollar;3580239;GD;XCD;;344;308;St. George's;.gd;;en-GD;;GJ;;GRD;NA;Grenada;107818
-995;Lari;614540;GE;GEL;AM,AZ,TR,RU;69700;268;Tbilisi;.ge;;ka,ru,hy,az;####;GG;^(\d{4})$;GEO;AS;Georgia;4630000
-594;Euro;3381670;GF;EUR;SR,BR;91000;254;Cayenne;.gf;;fr-GF;#####;FG;^((97|98)3\d{2})$;GUF;SA;French Guiana;195506
-+44-1481;Pound;3042362;GG;GBP;;78;831;St Peter Port;.gg;;en,fr;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;GK;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;GGY;EU;Guernsey;65228
-233;Cedi;2300660;GH;GHS;CI,TG,BF;239460;288;Accra;.gh;;en-GH,ak,ee,tw;;GH;;GHA;AF;Ghana;24339838
-350;Pound;2411586;GI;GIP;ES;6.5;292;Gibraltar;.gi;;en-GI,es,it,pt;;GI;;GIB;EU;Gibraltar;27884
-299;Krone;3425505;GL;DKK;;2166086;304;Nuuk;.gl;;kl,da-GL,en;####;GL;^(\d{4})$;GRL;NA;Greenland;56375
-220;Dalasi;2413451;GM;GMD;SN;11300;270;Banjul;.gm;;en-GM,mnk,wof,wo,ff;;GA;;GMB;AF;Gambia;1593256
-224;Franc;2420477;GN;GNF;LR,SN,SL,CI,GW,ML;245857;324;Conakry;.gn;;fr-GN;;GV;;GIN;AF;Guinea;10324025
-590;Euro;3579143;GP;EUR;;1780;312;Basse-Terre;.gp;;fr-GP;#####;GP;^((97|98)\d{3})$;GLP;NA;Guadeloupe;443000
-240;Franc;2309096;GQ;XAF;GA,CM;28051;226;Malabo;.gq;;es-GQ,fr;;EK;;GNQ;AF;Equatorial Guinea;1014999
-30;Euro;390903;GR;EUR;AL,MK,TR,BG;131940;300;Athens;.gr;;el-GR,en,fr;### ##;GR;^(\d{5})$;GRC;EU;Greece;11000000
-;Pound;3474415;GS;GBP;;3903;239;Grytviken;.gs;;en;;SX;;SGS;AN;South Georgia and the South Sandwich Islands;30
-502;Quetzal;3595528;GT;GTQ;MX,HN,BZ,SV;108890;320;Guatemala City;.gt;;es-GT;#####;GT;^(\d{5})$;GTM;NA;Guatemala;13550440
-+1-671;Dollar;4043988;GU;USD;;549;316;Hagatna;.gu;;en-GU,ch-GU;969##;GQ;^(969\d{2})$;GUM;OC;Guam;159358
-245;Franc;2372248;GW;XOF;SN,GN;36120;624;Bissau;.gw;;pt-GW,pov;####;PU;^(\d{4})$;GNB;AF;Guinea-Bissau;1565126
-592;Dollar;3378535;GY;GYD;SR,BR,VE;214970;328;Georgetown;.gy;;en-GY;;GY;;GUY;SA;Guyana;748486
-852;Dollar;1819730;HK;HKD;;1092;344;Hong Kong;.hk;;zh-HK,yue,zh,en;;HK;;HKG;AS;Hong Kong;6898686
- ;Dollar;1547314;HM;AUD;;412;334;;.hm;;;;HM;;HMD;AN;Heard Island and McDonald Islands;0
-504;Lempira;3608932;HN;HNL;GT,NI,SV;112090;340;Tegucigalpa;.hn;;es-HN;@@####;HO;^([A-Z]{2}\d{4})$;HND;NA;Honduras;7989415
-385;Kuna;3202326;HR;HRK;HU,SI,BA,ME,RS;56542;191;Zagreb;.hr;;hr-HR,sr;#####;HR;^(?:HR)*(\d{5})$;HRV;EU;Croatia;4284889
-509;Gourde;3723988;HT;HTG;DO;27750;332;Port-au-Prince;.ht;;ht,fr-HT;HT####;HA;^(?:HT)*(\d{4})$;HTI;NA;Haiti;9648924
-36;Forint;719819;HU;HUF;SK,SI,RO,UA,HR,AT,RS;93030;348;Budapest;.hu;;hu-HU;####;HU;^(\d{4})$;HUN;EU;Hungary;9982000
-62;Rupiah;1643084;ID;IDR;PG,TL,MY;1919440;360;Jakarta;.id;;id,en,nl,jv;#####;ID;^(\d{5})$;IDN;AS;Indonesia;242968342
-353;Euro;2963597;IE;EUR;GB;70280;372;Dublin;.ie;;en-IE,ga-IE;@@@ @@@@;EI;^[A-Z]\d{2}$|^[A-Z]{3}[A-Z]{4}$;IRL;EU;Ireland;4622917
-972;Shekel;294640;IL;ILS;SY,JO,LB,EG,PS;20770;376;Jerusalem;.il;;he,ar-IL,en-IL,;#####;IS;^(\d{5})$;ISR;AS;Israel;7353985
-+44-1624;Pound;3042225;IM;GBP;;572;833;Douglas;.im;;en,gv;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;IM;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;IMN;EU;Isle of Man;75049
-91;Rupee;1269750;IN;INR;CN,NP,MM,BT,PK,BD;3287590;356;New Delhi;.in;;en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc;######;IN;^(\d{6})$;IND;AS;India;1173108018
-246;Dollar;1282588;IO;USD;;60;086;Diego Garcia;.io;;en-IO;;IO;;IOT;AS;British Indian Ocean Territory;4000
-964;Dinar;99237;IQ;IQD;SY,SA,IR,JO,TR,KW;437072;368;Baghdad;.iq;;ar-IQ,ku,hy;#####;IZ;^(\d{5})$;IRQ;AS;Iraq;29671605
-98;Rial;130758;IR;IRR;TM,AF,IQ,AM,PK,AZ,TR;1648000;364;Tehran;.ir;;fa-IR,ku;##########;IR;^(\d{10})$;IRN;AS;Iran;76923300
-354;Krona;2629691;IS;ISK;;103000;352;Reykjavik;.is;;is,en,de,da,sv,no;###;IC;^(\d{3})$;ISL;EU;Iceland;308910
-39;Euro;3175395;IT;EUR;CH,VA,SI,SM,FR,AT;301230;380;Rome;.it;;it-IT,de-IT,fr-IT,sc,ca,co,sl;#####;IT;^(\d{5})$;ITA;EU;Italy;60340328
-+44-1534;Pound;3042142;JE;GBP;;116;832;Saint Helier;.je;;en,pt;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;JE;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;JEY;EU;Jersey;90812
-+1-876;Dollar;3489940;JM;JMD;;10991;388;Kingston;.jm;;en-JM;;JM;;JAM;NA;Jamaica;2847232
-962;Dinar;248816;JO;JOD;SY,SA,IQ,IL,PS;92300;400;Amman;.jo;;ar-JO,en;#####;JO;^(\d{5})$;JOR;AS;Jordan;6407085
-81;Yen;1861060;JP;JPY;;377835;392;Tokyo;.jp;;ja;###-####;JA;^\d{3}-\d{4}$;JPN;AS;Japan;127288000
-254;Shilling;192950;KE;KES;ET,TZ,SS,SO,UG;582650;404;Nairobi;.ke;;en-KE,sw-KE;#####;KE;^(\d{5})$;KEN;AF;Kenya;40046566
-996;Som;1527747;KG;KGS;CN,TJ,UZ,KZ;198500;417;Bishkek;.kg;;ky,uz,ru;######;KG;^(\d{6})$;KGZ;AS;Kyrgyzstan;5776500
-855;Riels;1831722;KH;KHR;LA,TH,VN;181040;116;Phnom Penh;.kh;;km,fr,en;#####;CB;^(\d{5})$;KHM;AS;Cambodia;14453680
-686;Dollar;4030945;KI;AUD;;811;296;Tarawa;.ki;;en-KI,gil;;KR;;KIR;OC;Kiribati;92533
-269;Franc;921929;KM;KMF;;2170;174;Moroni;.km;;ar,fr-KM;;CN;;COM;AF;Comoros;773407
-+1-869;Dollar;3575174;KN;XCD;;261;659;Basseterre;.kn;;en-KN;;SC;;KNA;NA;Saint Kitts and Nevis;51134
-850;Won;1873107;KP;KPW;CN,KR,RU;120540;408;Pyongyang;.kp;;ko-KP;###-###;KN;^(\d{6})$;PRK;AS;North Korea;22912177
-82;Won;1835841;KR;KRW;KP;98480;410;Seoul;.kr;;ko-KR,en;SEOUL ###-###;KS;^(?:SEOUL)*(\d{6})$;KOR;AS;South Korea;48422644
-;Euro;831053;XK;EUR;RS,AL,MK,ME;10908;0;Pristina;;;sq,sr;;KV;;XKX;EU;Kosovo;1800000
-965;Dinar;285570;KW;KWD;SA,IQ;17820;414;Kuwait City;.kw;;ar-KW,en;#####;KU;^(\d{5})$;KWT;AS;Kuwait;2789132
-+1-345;Dollar;3580718;KY;KYD;;262;136;George Town;.ky;;en-KY;;CJ;;CYM;NA;Cayman Islands;44270
-7;Tenge;1522867;KZ;KZT;TM,CN,KG,UZ,RU;2717300;398;Astana;.kz;;kk,ru;######;KZ;^(\d{6})$;KAZ;AS;Kazakhstan;15340000
-856;Kip;1655842;LA;LAK;CN,MM,KH,TH,VN;236800;418;Vientiane;.la;;lo,fr,en;#####;LA;^(\d{5})$;LAO;AS;Laos;6368162
-961;Pound;272103;LB;LBP;SY,IL;10400;422;Beirut;.lb;;ar-LB,fr-LB,en,hy;#### ####|####;LE;^(\d{4}(\d{4})?)$;LBN;AS;Lebanon;4125247
-+1-758;Dollar;3576468;LC;XCD;;616;662;Castries;.lc;;en-LC;;ST;;LCA;NA;Saint Lucia;160922
-423;Franc;3042058;LI;CHF;CH,AT;160;438;Vaduz;.li;;de-LI;####;LS;^(\d{4})$;LIE;EU;Liechtenstein;35000
-94;Rupee;1227603;LK;LKR;;65610;144;Colombo;.lk;;si,ta,en;#####;CE;^(\d{5})$;LKA;AS;Sri Lanka;21513990
-231;Dollar;2275384;LR;LRD;SL,CI,GN;111370;430;Monrovia;.lr;;en-LR;####;LI;^(\d{4})$;LBR;AF;Liberia;3685076
-266;Loti;932692;LS;LSL;ZA;30355;426;Maseru;.ls;;en-LS,st,zu,xh;###;LT;^(\d{3})$;LSO;AF;Lesotho;1919552
-370;Euro;597427;LT;EUR;PL,BY,RU,LV;65200;440;Vilnius;.lt;;lt,ru,pl;LT-#####;LH;^(?:LT)*(\d{5})$;LTU;EU;Lithuania;2944459
-352;Euro;2960313;LU;EUR;DE,BE,FR;2586;442;Luxembourg;.lu;;lb,de-LU,fr-LU;L-####;LU;^(?:L-)?\d{4}$;LUX;EU;Luxembourg;497538
-371;Euro;458258;LV;EUR;LT,EE,BY,RU;64589;428;Riga;.lv;;lv,ru,lt;LV-####;LG;^(?:LV)*(\d{4})$;LVA;EU;Latvia;2217969
-218;Dinar;2215636;LY;LYD;TD,NE,DZ,SD,TN,EG;1759540;434;Tripoli;.ly;;ar-LY,it,en;;LY;;LBY;AF;Libya;6461454
-212;Dirham;2542007;MA;MAD;DZ,EH,ES;446550;504;Rabat;.ma;;ar-MA,fr;#####;MO;^(\d{5})$;MAR;AF;Morocco;31627428
-377;Euro;2993457;MC;EUR;FR;1.95;492;Monaco;.mc;;fr-MC,en,it;#####;MN;^(\d{5})$;MCO;EU;Monaco;32965
-373;Leu;617790;MD;MDL;RO,UA;33843;498;Chisinau;.md;;ro,ru,gag,tr;MD-####;MD;^MD-\d{4}$;MDA;EU;Moldova;4324000
-382;Euro;3194884;ME;EUR;AL,HR,BA,RS,XK;14026;499;Podgorica;.me;;sr,hu,bs,sq,hr,rom;#####;MJ;^(\d{5})$;MNE;EU;Montenegro;666730
-590;Euro;3578421;MF;EUR;SX;53;663;Marigot;.gp;;fr;### ###;RN;;MAF;NA;Saint Martin;35925
-261;Ariary;1062947;MG;MGA;;587040;450;Antananarivo;.mg;;fr-MG,mg;###;MA;^(\d{3})$;MDG;AF;Madagascar;21281844
-692;Dollar;2080185;MH;USD;;181.3;584;Majuro;.mh;;mh,en-MH;;RM;;MHL;OC;Marshall Islands;65859
-389;Denar;718075;MK;MKD;AL,GR,BG,RS,XK;25333;807;Skopje;.mk;;mk,sq,tr,rmm,sr;####;MK;^(\d{4})$;MKD;EU;Macedonia;2062294
-223;Franc;2453866;ML;XOF;SN,NE,DZ,CI,GN,MR,BF;1240000;466;Bamako;.ml;;fr-ML,bm;;ML;;MLI;AF;Mali;13796354
-95;Kyat;1327865;MM;MMK;CN,LA,TH,BD,IN;678500;104;Nay Pyi Taw;.mm;;my;#####;BM;^(\d{5})$;MMR;AS;Myanmar;53414374
-976;Tugrik;2029969;MN;MNT;CN,RU;1565000;496;Ulan Bator;.mn;;mn,ru;######;MG;^(\d{6})$;MNG;AS;Mongolia;3086918
-853;Pataca;1821275;MO;MOP;;254;446;Macao;.mo;;zh,zh-MO,pt;;MC;;MAC;AS;Macao;449198
-+1-670;Dollar;4041468;MP;USD;;477;580;Saipan;.mp;;fil,tl,zh,ch-MP,en-MP;;CQ;;MNP;OC;Northern Mariana Islands;53883
-596;Euro;3570311;MQ;EUR;;1100;474;Fort-de-France;.mq;;fr-MQ;#####;MB;^(\d{5})$;MTQ;NA;Martinique;432900
-222;Ouguiya;2378080;MR;MRO;SN,DZ,EH,ML;1030700;478;Nouakchott;.mr;;ar-MR,fuc,snk,fr,mey,wo;;MR;;MRT;AF;Mauritania;3205060
-+1-664;Dollar;3578097;MS;XCD;;102;500;Plymouth;.ms;;en-MS;;MH;;MSR;NA;Montserrat;9341
-356;Euro;2562770;MT;EUR;;316;470;Valletta;.mt;;mt,en-MT;@@@ ####;MT;^[A-Z]{3}\s?\d{4}$;MLT;EU;Malta;403000
-230;Rupee;934292;MU;MUR;;2040;480;Port Louis;.mu;;en-MU,bho,fr;;MP;;MUS;AF;Mauritius;1294104
-960;Rufiyaa;1282028;MV;MVR;;300;462;Male;.mv;;dv,en;#####;MV;^(\d{5})$;MDV;AS;Maldives;395650
-265;Kwacha;927384;MW;MWK;TZ,MZ,ZM;118480;454;Lilongwe;.mw;;ny,yao,tum,swk;;MI;;MWI;AF;Malawi;15447500
-52;Peso;3996063;MX;MXN;GT,US,BZ;1972550;484;Mexico City;.mx;;es-MX;#####;MX;^(\d{5})$;MEX;NA;Mexico;112468855
-60;Ringgit;1733045;MY;MYR;BN,TH,ID;329750;458;Kuala Lumpur;.my;;ms-MY,en,zh,ta,te,ml,pa,th;#####;MY;^(\d{5})$;MYS;AS;Malaysia;28274729
-258;Metical;1036973;MZ;MZN;ZW,TZ,SZ,ZA,ZM,MW;801590;508;Maputo;.mz;;pt-MZ,vmw;####;MZ;^(\d{4})$;MOZ;AF;Mozambique;22061451
-264;Dollar;3355338;NA;NAD;ZA,BW,ZM,AO;825418;516;Windhoek;.na;;en-NA,af,de,hz,naq;;WA;;NAM;AF;Namibia;2128471
-687;Franc;2139685;NC;XPF;;19060;540;Noumea;.nc;;fr-NC;#####;NC;^(\d{5})$;NCL;OC;New Caledonia;216494
-227;Franc;2440476;NE;XOF;TD,BJ,DZ,LY,BF,NG,ML;1267000;562;Niamey;.ne;;fr-NE,ha,kr,dje;####;NG;^(\d{4})$;NER;AF;Niger;15878271
-672;Dollar;2155115;NF;AUD;;34.6;574;Kingston;.nf;;en-NF;####;NF;^(\d{4})$;NFK;OC;Norfolk Island;1828
-234;Naira;2328926;NG;NGN;TD,NE,BJ,CM;923768;566;Abuja;.ng;;en-NG,ha,yo,ig,ff;######;NI;^(\d{6})$;NGA;AF;Nigeria;154000000
-505;Cordoba;3617476;NI;NIO;CR,HN;129494;558;Managua;.ni;;es-NI,en;###-###-#;NU;^(\d{7})$;NIC;NA;Nicaragua;5995928
-31;Euro;2750405;NL;EUR;DE,BE;41526;528;Amsterdam;.nl;;nl-NL,fy-NL;#### @@;NL;^(\d{4}[A-Z]{2})$;NLD;EU;Netherlands;16645000
-47;Krone;3144096;NO;NOK;FI,RU,SE;324220;578;Oslo;.no;;no,nb,nn,se,fi;####;NO;^(\d{4})$;NOR;EU;Norway;5009150
-977;Rupee;1282988;NP;NPR;CN,IN;140800;524;Kathmandu;.np;;ne,en;#####;NP;^(\d{5})$;NPL;AS;Nepal;28951852
-674;Dollar;2110425;NR;AUD;;21;520;Yaren;.nr;;na,en-NR;;NR;;NRU;OC;Nauru;10065
-683;Dollar;4036232;NU;NZD;;260;570;Alofi;.nu;;niu,en-NU;;NE;;NIU;OC;Niue;2166
-64;Dollar;2186224;NZ;NZD;;268680;554;Wellington;.nz;;en-NZ,mi;####;NZ;^(\d{4})$;NZL;OC;New Zealand;4252277
-968;Rial;286963;OM;OMR;SA,YE,AE;212460;512;Muscat;.om;;ar-OM,en,bal,ur;###;MU;^(\d{3})$;OMN;AS;Oman;2967717
-507;Balboa;3703430;PA;PAB;CR,CO;78200;591;Panama City;.pa;;es-PA,en;;PM;;PAN;NA;Panama;3410676
-51;Sol;3932488;PE;PEN;EC,CL,BO,BR,CO;1285220;604;Lima;.pe;;es-PE,qu,ay;;PE;;PER;SA;Peru;29907003
-689;Franc;4030656;PF;XPF;;4167;258;Papeete;.pf;;fr-PF,ty;#####;FP;^((97|98)7\d{2})$;PYF;OC;French Polynesia;270485
-675;Kina;2088628;PG;PGK;ID;462840;598;Port Moresby;.pg;;en-PG,ho,meu,tpi;###;PP;^(\d{3})$;PNG;OC;Papua New Guinea;6064515
-63;Peso;1694008;PH;PHP;;300000;608;Manila;.ph;;tl,en-PH,fil;####;RP;^(\d{4})$;PHL;AS;Philippines;99900177
-92;Rupee;1168579;PK;PKR;CN,AF,IR,IN;803940;586;Islamabad;.pk;;ur-PK,en-PK,pa,sd,ps,brh;#####;PK;^(\d{5})$;PAK;AS;Pakistan;184404791
-48;Zloty;798544;PL;PLN;DE,LT,SK,CZ,BY,UA,RU;312685;616;Warsaw;.pl;;pl;##-###;PL;^\d{2}-\d{3}$;POL;EU;Poland;38500000
-508;Euro;3424932;PM;EUR;;242;666;Saint-Pierre;.pm;;fr-PM;#####;SB;^(97500)$;SPM;NA;Saint Pierre and Miquelon;7012
-870;Dollar;4030699;PN;NZD;;47;612;Adamstown;.pn;;en-PN;;PC;;PCN;OC;Pitcairn;46
-+1-787 and 1-939;Dollar;4566966;PR;USD;;9104;630;San Juan;.pr;;en-PR,es-PR;#####-####;RQ;^00[679]\d{2}(?:-\d{4})?$;PRI;NA;Puerto Rico;3916632
-970;Shekel;6254930;PS;ILS;JO,IL,EG;5970;275;East Jerusalem;.ps;;ar-PS;;WE;;PSE;AS;Palestinian Territory;3800000
-351;Euro;2264397;PT;EUR;ES;92391;620;Lisbon;.pt;;pt-PT,mwl;####-###;PO;^\d{4}-\d{3}\s?[a-zA-Z]{0,25}$;PRT;EU;Portugal;10676000
-680;Dollar;1559582;PW;USD;;458;585;Melekeok;.pw;;pau,sov,en-PW,tox,ja,fil,zh;96940;PS;^(96940)$;PLW;OC;Palau;19907
-595;Guarani;3437598;PY;PYG;BO,BR,AR;406750;600;Asuncion;.py;;es-PY,gn;####;PA;^(\d{4})$;PRY;SA;Paraguay;6375830
-974;Rial;289688;QA;QAR;SA;11437;634;Doha;.qa;;ar-QA,es;;QA;;QAT;AS;Qatar;840926
-262;Euro;935317;RE;EUR;;2517;638;Saint-Denis;.re;;fr-RE;#####;RE;^((97|98)(4|7|8)\d{2})$;REU;AF;Reunion;776948
-40;Leu;798549;RO;RON;MD,HU,UA,BG,RS;237500;642;Bucharest;.ro;;ro,hu,rom;######;RO;^(\d{6})$;ROU;EU;Romania;21959278
-381;Dinar;6290252;RS;RSD;AL,HU,MK,RO,HR,BA,BG,ME,XK;88361;688;Belgrade;.rs;;sr,hu,bs,rom;######;RI;^(\d{6})$;SRB;EU;Serbia;7344847
-7;Ruble;2017370;RU;RUB;GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP;17100000;643;Moscow;.ru;;ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog;######;RS;^(\d{6})$;RUS;EU;Russia;140702000
-250;Franc;49518;RW;RWF;TZ,CD,BI,UG;26338;646;Kigali;.rw;;rw,en-RW,fr-RW,sw;;RW;;RWA;AF;Rwanda;11055976
-966;Rial;102358;SA;SAR;QA,OM,IQ,YE,JO,AE,KW;1960582;682;Riyadh;.sa;;ar-SA;#####;SA;^(\d{5})$;SAU;AS;Saudi Arabia;25731776
-677;Dollar;2103350;SB;SBD;;28450;090;Honiara;.sb;;en-SB,tpi;;BP;;SLB;OC;Solomon Islands;559198
-248;Rupee;241170;SC;SCR;;455;690;Victoria;.sc;;en-SC,fr-SC;;SE;;SYC;AF;Seychelles;88340
-249;Pound;366755;SD;SDG;SS,TD,EG,ET,ER,LY,CF;1861484;729;Khartoum;.sd;;ar-SD,en,fia;#####;SU;^(\d{5})$;SDN;AF;Sudan;35000000
-211;Pound;7909807;SS;SSP;CD,CF,ET,KE,SD,UG,;644329;728;Juba;;;en;;OD;;SSD;AF;South Sudan;8260490
-46;Krona;2661886;SE;SEK;NO,FI;449964;752;Stockholm;.se;;sv-SE,se,sma,fi-SE;### ##;SW;^(?:SE)?\d{3}\s\d{2}$;SWE;EU;Sweden;9828655
-65;Dollar;1880251;SG;SGD;;692.7;702;Singapore;.sg;;cmn,en-SG,ms-SG,ta-SG,zh-SG;######;SN;^(\d{6})$;SGP;AS;Singapore;4701069
-290;Pound;3370751;SH;SHP;;410;654;Jamestown;.sh;;en-SH;STHL 1ZZ;SH;^(STHL1ZZ)$;SHN;AF;Saint Helena;7460
-386;Euro;3190538;SI;EUR;HU,IT,HR,AT;20273;705;Ljubljana;.si;;sl,sh;####;SI;^(?:SI)*(\d{4})$;SVN;EU;Slovenia;2007000
-47;Krone;607072;SJ;NOK;;62049;744;Longyearbyen;.sj;;no,ru;;SV;;SJM;EU;Svalbard and Jan Mayen;2550
-421;Euro;3057568;SK;EUR;PL,HU,CZ,UA,AT;48845;703;Bratislava;.sk;;sk,hu;### ##;LO;^\d{3}\s?\d{2}$;SVK;EU;Slovakia;5455000
-232;Leone;2403846;SL;SLL;LR,GN;71740;694;Freetown;.sl;;en-SL,men,tem;;SL;;SLE;AF;Sierra Leone;5245695
-378;Euro;3168068;SM;EUR;IT;61.2;674;San Marino;.sm;;it-SM;4789#;SM;^(4789\d)$;SMR;EU;San Marino;31477
-221;Franc;2245662;SN;XOF;GN,MR,GW,GM,ML;196190;686;Dakar;.sn;;fr-SN,wo,fuc,mnk;#####;SG;^(\d{5})$;SEN;AF;Senegal;12323252
-252;Shilling;51537;SO;SOS;ET,KE,DJ;637657;706;Mogadishu;.so;;so-SO,ar-SO,it,en-SO;@@  #####;SO;^([A-Z]{2}\d{5})$;SOM;AF;Somalia;10112453
-597;Dollar;3382998;SR;SRD;GY,BR,GF;163270;740;Paramaribo;.sr;;nl-SR,en,srn,hns,jv;;NS;;SUR;SA;Suriname;492829
-239;Dobra;2410758;ST;STD;;1001;678;Sao Tome;.st;;pt-ST;;TP;;STP;AF;Sao Tome and Principe;175808
-503;Dollar;3585968;SV;USD;GT,HN;21040;222;San Salvador;.sv;;es-SV;CP ####;ES;^(?:CP)*(\d{4})$;SLV;NA;El Salvador;6052064
-599;Guilder;7609695;SX;ANG;MF;21;534;Philipsburg;.sx;;nl,en;;NN;;SXM;NA;Sint Maarten;37429
-963;Pound;163843;SY;SYP;IQ,JO,IL,TR,LB;185180;760;Damascus;.sy;;ar-SY,ku,hy,arc,fr,en;;SY;;SYR;AS;Syria;22198110
-268;Lilangeni;934841;SZ;SZL;ZA,MZ;17363;748;Mbabane;.sz;;en-SZ,ss-SZ;@###;WZ;^([A-Z]\d{3})$;SWZ;AF;Swaziland;1354051
-+1-649;Dollar;3576916;TC;USD;;430;796;Cockburn Town;.tc;;en-TC;TKCA 1ZZ;TK;^(TKCA 1ZZ)$;TCA;NA;Turks and Caicos Islands;20556
-235;Franc;2434508;TD;XAF;NE,LY,CF,SD,CM,NG;1284000;148;N'Djamena;.td;;fr-TD,ar-TD,sre;;CD;;TCD;AF;Chad;10543464
-;Euro  ;1546748;TF;EUR;;7829;260;Port-aux-Francais;.tf;;fr;;FS;;ATF;AN;French Southern Territories;140
-228;Franc;2363686;TG;XOF;BJ,GH,BF;56785;768;Lome;.tg;;fr-TG,ee,hna,kbp,dag,ha;;TO;;TGO;AF;Togo;6587239
-66;Baht;1605651;TH;THB;LA,MM,KH,MY;514000;764;Bangkok;.th;;th,en;#####;TH;^(\d{5})$;THA;AS;Thailand;67089500
-992;Somoni;1220409;TJ;TJS;CN,AF,KG,UZ;143100;762;Dushanbe;.tj;;tg,ru;######;TI;^(\d{6})$;TJK;AS;Tajikistan;7487489
-690;Dollar;4031074;TK;NZD;;10;772;;.tk;;tkl,en-TK;;TL;;TKL;OC;Tokelau;1466
-670;Dollar;1966436;TL;USD;ID;15007;626;Dili;.tl;;tet,pt-TL,id,en;;TT;;TLS;OC;East Timor;1154625
-993;Manat;1218197;TM;TMT;AF,IR,UZ,KZ;488100;795;Ashgabat;.tm;;tk,ru,uz;######;TX;^(\d{6})$;TKM;AS;Turkmenistan;4940916
-216;Dinar;2464461;TN;TND;DZ,LY;163610;788;Tunis;.tn;;ar-TN,fr;####;TS;^(\d{4})$;TUN;AF;Tunisia;10589025
-676;Pa'anga;4032283;TO;TOP;;748;776;Nuku'alofa;.to;;to,en-TO;;TN;;TON;OC;Tonga;122580
-90;Lira;298795;TR;TRY;SY,GE,IQ,IR,GR,AM,AZ,BG;780580;792;Ankara;.tr;;tr-TR,ku,diq,az,av;#####;TU;^(\d{5})$;TUR;AS;Turkey;77804122
-+1-868;Dollar;3573591;TT;TTD;;5128;780;Port of Spain;.tt;;en-TT,hns,fr,es,zh;;TD;;TTO;NA;Trinidad and Tobago;1228691
-688;Dollar;2110297;TV;AUD;;26;798;Funafuti;.tv;;tvl,en,sm,gil;;TV;;TUV;OC;Tuvalu;10472
-886;Dollar;1668284;TW;TWD;;35980;158;Taipei;.tw;;zh-TW,zh,nan,hak;#####;TW;^(\d{5})$;TWN;AS;Taiwan;22894384
-255;Shilling;149590;TZ;TZS;MZ,KE,CD,RW,ZM,BI,UG,MW;945087;834;Dodoma;.tz;;sw-TZ,en,ar;;TZ;;TZA;AF;Tanzania;41892895
-380;Hryvnia;690791;UA;UAH;PL,MD,HU,SK,BY,RO,RU;603700;804;Kiev;.ua;;uk,ru-UA,rom,pl,hu;#####;UP;^(\d{5})$;UKR;EU;Ukraine;45415596
-256;Shilling;226074;UG;UGX;TZ,KE,SS,CD,RW;236040;800;Kampala;.ug;;en-UG,lg,sw,ar;;UG;;UGA;AF;Uganda;33398682
-1;Dollar ;5854968;UM;USD;;0;581;;.um;;en-UM;;;;UMI;OC;United States Minor Outlying Islands;0
-1;Dollar;6252001;US;USD;CA,MX,CU;9629091;840;Washington;.us;;en-US,es-US,haw,fr;#####-####;US;^\d{5}(-\d{4})?$;USA;NA;United States;310232863
-598;Peso;3439705;UY;UYU;BR,AR;176220;858;Montevideo;.uy;;es-UY;#####;UY;^(\d{5})$;URY;SA;Uruguay;3477000
-998;Som;1512440;UZ;UZS;TM,AF,KG,TJ,KZ;447400;860;Tashkent;.uz;;uz,ru,tg;######;UZ;^(\d{6})$;UZB;AS;Uzbekistan;27865738
-379;Euro;3164670;VA;EUR;IT;0.44;336;Vatican City;.va;;la,it,fr;#####;VT;^(\d{5})$;VAT;EU;Vatican;921
-+1-784;Dollar;3577815;VC;XCD;;389;670;Kingstown;.vc;;en-VC,fr;;VC;;VCT;NA;Saint Vincent and the Grenadines;104217
-58;Bolivar;3625428;VE;VEF;GY,BR,CO;912050;862;Caracas;.ve;;es-VE;####;VE;^(\d{4})$;VEN;SA;Venezuela;27223228
-+1-284;Dollar;3577718;VG;USD;;153;092;Road Town;.vg;;en-VG;;VI;;VGB;NA;British Virgin Islands;21730
-+1-340;Dollar;4796775;VI;USD;;352;850;Charlotte Amalie;.vi;;en-VI;#####-####;VQ;^008\d{2}(?:-\d{4})?$;VIR;NA;U.S. Virgin Islands;108708
-84;Dong;1562822;VN;VND;CN,LA,KH;329560;704;Hanoi;.vn;;vi,en,fr,zh,km;######;VM;^(\d{6})$;VNM;AS;Vietnam;89571130
-678;Vatu;2134431;VU;VUV;;12200;548;Port Vila;.vu;;bi,en-VU,fr-VU;;NH;;VUT;OC;Vanuatu;221552
-681;Franc;4034749;WF;XPF;;274;876;Mata Utu;.wf;;wls,fud,fr-WF;#####;WF;^(986\d{2})$;WLF;OC;Wallis and Futuna;16025
-685;Tala;4034894;WS;WST;;2944;882;Apia;.ws;;sm,en-WS;;WS;;WSM;OC;Samoa;192001
-967;Rial;69543;YE;YER;SA,OM;527970;887;Sanaa;.ye;;ar-YE;;YM;;YEM;AS;Yemen;23495361
-262;Euro;1024031;YT;EUR;;374;175;Mamoudzou;.yt;;fr-YT;#####;MF;^(\d{5})$;MYT;AF;Mayotte;159042
-27;Rand;953987;ZA;ZAR;ZW,SZ,MZ,BW,NA,LS;1219912;710;Pretoria;.za;;zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr;####;SF;^(\d{4})$;ZAF;AF;South Africa;49000000
-260;Kwacha;895949;ZM;ZMW;ZW,TZ,MZ,CD,NA,MW,AO;752614;894;Lusaka;.zm;;en-ZM,bem,loz,lun,lue,ny,toi;#####;ZA;^(\d{5})$;ZMB;AF;Zambia;13460305
-263;Dollar;878675;ZW;ZWL;ZA,MZ,BW,ZM;390580;716;Harare;.zw;;en-ZW,sn,nr,nd;;ZI;;ZWE;AF;Zimbabwe;13061000
-381;Dinar;8505033;CS;RSD;AL,HU,MK,RO,HR,BA,BG;102350;891;Belgrade;.cs;;cu,hu,sq,sr;#####;YI;^(\d{5})$;SCG;EU;Serbia and Montenegro;10829175
-599;Guilder;8505032;AN;ANG;GP;960;530;Willemstad;.an;;nl-AN,en,es;;NT;;ANT;NA;Netherlands Antilles;300000
+alpha_2;alpha_3;area;capital;continent;currency_code;currency_name;eqivalent_fips_code;fips;geoname_id;languages;name;neighbours;numeric;phone;population;postal_code_format;postal_code_regex;tld
+AD;AND;468;Andorra la Vella;EU;EUR;Euro;;AN;3041565;ca;Andorra;ES,FR;020;376;84000;AD###;^(?:AD)*(\d{3})$;.ad
+AE;ARE;82880;Abu Dhabi;AS;AED;Dirham;;AE;290557;ar-AE,fa,en,hi,ur;United Arab Emirates;SA,OM;784;971;4975593;;;.ae
+AF;AFG;647500;Kabul;AS;AFN;Afghani;;AF;1149361;fa-AF,ps,uz-AF,tk;Afghanistan;TM,CN,IR,TJ,PK,UZ;004;93;29121286;;;.af
+AG;ATG;443;St. John's;NA;XCD;Dollar;;AC;3576396;en-AG;Antigua and Barbuda;;028;+1-268;86754;;;.ag
+AI;AIA;102;The Valley;NA;XCD;Dollar;;AV;3573511;en-AI;Anguilla;;660;+1-264;13254;;;.ai
+AL;ALB;28748;Tirana;EU;ALL;Lek;;AL;783754;sq,el;Albania;MK,GR,ME,RS,XK;008;355;2986952;;;.al
+AM;ARM;29800;Yerevan;AS;AMD;Dram;;AM;174982;hy;Armenia;GE,IR,AZ,TR;051;374;2968000;######;^(\d{6})$;.am
+AO;AGO;1246700;Luanda;AF;AOA;Kwanza;;AO;3351879;pt-AO;Angola;CD,NA,ZM,CG;024;244;13068161;;;.ao
+AQ;ATA;14000000;;AN;;;;AY;6697173;;Antarctica;;010;;0;;;.aq
+AR;ARG;2766890;Buenos Aires;SA;ARS;Peso;;AR;3865483;es-AR,en,it,de,fr,gn;Argentina;CL,BO,UY,PY,BR;032;54;41343201;@####@@@;^[A-Z]?\d{4}[A-Z]{0,3}$;.ar
+AS;ASM;199;Pago Pago;OC;USD;Dollar;;AQ;5880801;en-AS,sm,to;American Samoa;;016;+1-684;57881;;;.as
+AT;AUT;83858;Vienna;EU;EUR;Euro;;AU;2782113;de-AT,hr,hu,sl;Austria;CH,DE,HU,SK,CZ,IT,SI,LI;040;43;8205000;####;^(\d{4})$;.at
+AU;AUS;7686850;Canberra;OC;AUD;Dollar;;AS;2077456;en-AU;Australia;;036;61;21515754;####;^(\d{4})$;.au
+AW;ABW;193;Oranjestad;NA;AWG;Guilder;;AA;3577279;nl-AW,es,en;Aruba;;533;297;71566;;;.aw
+AX;ALA;1580;Mariehamn;EU;EUR;Euro;FI;;661882;sv-AX;Aland Islands;;248;+358-18;26711;#####;^(?:FI)*(\d{5})$;.ax
+AZ;AZE;86600;Baku;AS;AZN;Manat;;AJ;587116;az,ru,hy;Azerbaijan;GE,IR,AM,TR,RU;031;994;8303512;AZ ####;^(?:AZ)*(\d{4})$;.az
+BA;BIH;51129;Sarajevo;EU;BAM;Marka;;BK;3277605;bs,hr-BA,sr-BA;Bosnia and Herzegovina;HR,ME,RS;070;387;4590000;#####;^(\d{5})$;.ba
+BB;BRB;431;Bridgetown;NA;BBD;Dollar;;BB;3374084;en-BB;Barbados;;052;+1-246;285653;BB#####;^(?:BB)*(\d{5})$;.bb
+BD;BGD;144000;Dhaka;AS;BDT;Taka;;BG;1210997;bn-BD,en;Bangladesh;MM,IN;050;880;156118464;####;^(\d{4})$;.bd
+BE;BEL;30510;Brussels;EU;EUR;Euro;;BE;2802361;nl-BE,fr-BE,de-BE;Belgium;DE,NL,LU,FR;056;32;10403000;####;^(\d{4})$;.be
+BF;BFA;274200;Ouagadougou;AF;XOF;Franc;;UV;2361809;fr-BF;Burkina Faso;NE,BJ,GH,CI,TG,ML;854;226;16241811;;;.bf
+BG;BGR;110910;Sofia;EU;BGN;Lev;;BU;732800;bg,tr-BG,rom;Bulgaria;MK,GR,RO,TR,RS;100;359;7148785;####;^(\d{4})$;.bg
+BH;BHR;665;Manama;AS;BHD;Dinar;;BA;290291;ar-BH,en,fa,ur;Bahrain;;048;973;738004;####|###;^(\d{3}\d?)$;.bh
+BI;BDI;27830;Bujumbura;AF;BIF;Franc;;BY;433561;fr-BI,rn;Burundi;TZ,CD,RW;108;257;9863117;;;.bi
+BJ;BEN;112620;Porto-Novo;AF;XOF;Franc;;BN;2395170;fr-BJ;Benin;NE,TG,BF,NG;204;229;9056010;;;.bj
+BL;BLM;21;Gustavia;NA;EUR;Euro;;TB;3578476;fr;Saint Barthelemy;;652;590;8450;### ###;;.gp
+BM;BMU;53;Hamilton;NA;BMD;Dollar;;BD;3573345;en-BM,pt;Bermuda;;060;+1-441;65365;@@ ##;^([A-Z]{2}\d{2})$;.bm
+BN;BRN;5770;Bandar Seri Begawan;AS;BND;Dollar;;BX;1820814;ms-BN,en-BN;Brunei;MY;096;673;395027;@@####;^([A-Z]{2}\d{4})$;.bn
+BO;BOL;1098580;Sucre;SA;BOB;Boliviano;;BL;3923057;es-BO,qu,ay;Bolivia;PE,CL,PY,BR,AR;068;591;9947418;;;.bo
+BQ;BES;328;;NA;USD;Dollar;;;7626844;nl,pap,en;Bonaire, Saint Eustatius and Saba ;;535;599;18012;;;.bq
+BR;BRA;8511965;Brasilia;SA;BRL;Real;;BR;3469034;pt-BR,es,en,fr;Brazil;SR,PE,BO,UY,GY,PY,GF,VE,CO,AR;076;55;201103330;#####-###;^\d{5}-\d{3}$;.br
+BS;BHS;13940;Nassau;NA;BSD;Dollar;;BF;3572887;en-BS;Bahamas;;044;+1-242;301790;;;.bs
+BT;BTN;47000;Thimphu;AS;BTN;Ngultrum;;BT;1252634;dz;Bhutan;CN,IN;064;975;699847;;;.bt
+BV;BVT;49;;AN;NOK;Krone;;BV;3371123;;Bouvet Island;;074;;0;;;.bv
+BW;BWA;600370;Gaborone;AF;BWP;Pula;;BC;933860;en-BW,tn-BW;Botswana;ZW,ZA,NA;072;267;2029307;;;.bw
+BY;BLR;207600;Minsk;EU;BYR;Ruble;;BO;630336;be,ru;Belarus;PL,LT,UA,RU,LV;112;375;9685000;######;^(\d{6})$;.by
+BZ;BLZ;22966;Belmopan;NA;BZD;Dollar;;BH;3582678;en-BZ,es;Belize;GT,MX;084;501;314522;;;.bz
+CA;CAN;9984670;Ottawa;NA;CAD;Dollar;;CA;6251999;en-CA,fr-CA,iu;Canada;US;124;1;33679000;@#@ #@#;^([ABCEGHJKLMNPRSTVXY]\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\d[ABCEGHJKLMNPRSTVWXYZ]\d)$ ;.ca
+CC;CCK;14;West Island;AS;AUD;Dollar;;CK;1547376;ms-CC,en;Cocos Islands;;166;61;628;;;.cc
+CD;COD;2345410;Kinshasa;AF;CDF;Franc;;CG;203312;fr-CD,ln,kg;Democratic Republic of the Congo;TZ,CF,SS,RW,ZM,BI,UG,CG,AO;180;243;70916439;;;.cd
+CF;CAF;622984;Bangui;AF;XAF;Franc;;CT;239880;fr-CF,sg,ln,kg;Central African Republic;TD,SD,CD,SS,CM,CG;140;236;4844927;;;.cf
+CG;COG;342000;Brazzaville;AF;XAF;Franc;;CF;2260494;fr-CG,kg,ln-CG;Republic of the Congo;CF,GA,CD,CM,AO;178;242;3039126;;;.cg
+CH;CHE;41290;Bern;EU;CHF;Franc;;SZ;2658434;de-CH,fr-CH,it-CH,rm;Switzerland;DE,IT,LI,FR,AT;756;41;7581000;####;^(\d{4})$;.ch
+CI;CIV;322460;Yamoussoukro;AF;XOF;Franc;;IV;2287781;fr-CI;Ivory Coast;LR,GH,GN,BF,ML;384;225;21058798;;;.ci
+CK;COK;240;Avarua;OC;NZD;Dollar;;CW;1899402;en-CK,mi;Cook Islands;;184;682;21388;;;.ck
+CL;CHL;756950;Santiago;SA;CLP;Peso;;CI;3895114;es-CL;Chile;PE,BO,AR;152;56;16746491;#######;^(\d{7})$;.cl
+CM;CMR;475440;Yaounde;AF;XAF;Franc;;CM;2233387;en-CM,fr-CM;Cameroon;TD,CF,GA,GQ,CG,NG;120;237;19294149;;;.cm
+CN;CHN;9596960;Beijing;AS;CNY;Yuan Renminbi;;CH;1814991;zh-CN,yue,wuu,dta,ug,za;China;LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN;156;86;1330044000;######;^(\d{6})$;.cn
+CO;COL;1138910;Bogota;SA;COP;Peso;;CO;3686110;es-CO;Colombia;EC,PE,PA,BR,VE;170;57;47790000;;;.co
+CR;CRI;51100;San Jose;NA;CRC;Colon;;CS;3624060;es-CR,en;Costa Rica;PA,NI;188;506;4516220;####;^(\d{4})$;.cr
+CU;CUB;110860;Havana;NA;CUP;Peso;;CU;3562981;es-CU;Cuba;US;192;53;11423000;CP #####;^(?:CP)*(\d{5})$;.cu
+CV;CPV;4033;Praia;AF;CVE;Escudo;;CV;3374766;pt-CV;Cape Verde;;132;238;508659;####;^(\d{4})$;.cv
+CW;CUW;444; Willemstad;NA;ANG;Guilder;;UC;7626836;nl,pap;Curacao;;531;599;141766;;;.cw
+CX;CXR;135;Flying Fish Cove;AS;AUD;Dollar;;KT;2078138;en,zh,ms-CC;Christmas Island;;162;61;1500;####;^(\d{4})$;.cx
+CY;CYP;9250;Nicosia;EU;EUR;Euro;;CY;146669;el-CY,tr-CY,en;Cyprus;;196;357;1102677;####;^(\d{4})$;.cy
+CZ;CZE;78866;Prague;EU;CZK;Koruna;;EZ;3077311;cs,sk;Czechia;PL,DE,SK,AT;203;420;10476000;### ##;^\d{3}\s?\d{2}$;.cz
+DE;DEU;357021;Berlin;EU;EUR;Euro;;GM;2921044;de;Germany;CH,PL,NL,DK,BE,CZ,LU,FR,AT;276;49;81802257;#####;^(\d{5})$;.de
+DJ;DJI;23000;Djibouti;AF;DJF;Franc;;DJ;223816;fr-DJ,ar,so-DJ,aa;Djibouti;ER,ET,SO;262;253;740528;;;.dj
+DK;DNK;43094;Copenhagen;EU;DKK;Krone;;DA;2623032;da-DK,en,fo,de-DK;Denmark;DE;208;45;5484000;####;^(\d{4})$;.dk
+DM;DMA;754;Roseau;NA;XCD;Dollar;;DO;3575830;en-DM;Dominica;;212;+1-767;72813;;;.dm
+DO;DOM;48730;Santo Domingo;NA;DOP;Peso;;DR;3508796;es-DO;Dominican Republic;HT;214;+1-809 and 1-829;9823821;#####;^(\d{5})$;.do
+DZ;DZA;2381740;Algiers;AF;DZD;Dinar;;AG;2589581;ar-DZ;Algeria;NE,EH,LY,MR,TN,MA,ML;012;213;34586184;#####;^(\d{5})$;.dz
+EC;ECU;283560;Quito;SA;USD;Dollar;;EC;3658394;es-EC;Ecuador;PE,CO;218;593;14790608;@####@;^([a-zA-Z]\d{4}[a-zA-Z])$;.ec
+EE;EST;45226;Tallinn;EU;EUR;Euro;;EN;453733;et,ru;Estonia;RU,LV;233;372;1291170;#####;^(\d{5})$;.ee
+EG;EGY;1001450;Cairo;AF;EGP;Pound;;EG;357994;ar-EG,en,fr;Egypt;LY,SD,IL,PS;818;20;80471869;#####;^(\d{5})$;.eg
+EH;ESH;266000;El-Aaiun;AF;MAD;Dirham;;WI;2461445;ar,mey;Western Sahara;DZ,MR,MA;732;212;273008;;;.eh
+ER;ERI;121320;Asmara;AF;ERN;Nakfa;;ER;338010;aa-ER,ar,tig,kun,ti-ER;Eritrea;ET,SD,DJ;232;291;5792984;;;.er
+ES;ESP;504782;Madrid;EU;EUR;Euro;;SP;2510769;es-ES,ca,gl,eu,oc;Spain;AD,PT,GI,FR,MA;724;34;46505963;#####;^(\d{5})$;.es
+ET;ETH;1127127;Addis Ababa;AF;ETB;Birr;;ET;337996;am,en-ET,om-ET,ti-ET,so-ET,sid;Ethiopia;ER,KE,SD,SS,SO,DJ;231;251;88013491;####;^(\d{4})$;.et
+FI;FIN;337030;Helsinki;EU;EUR;Euro;;FI;660013;fi-FI,sv-FI,smn;Finland;NO,RU,SE;246;358;5244000;#####;^(?:FI)*(\d{5})$;.fi
+FJ;FJI;18270;Suva;OC;FJD;Dollar;;FJ;2205218;en-FJ,fj;Fiji;;242;679;875983;;;.fj
+FK;FLK;12173;Stanley;SA;FKP;Pound;;FK;3474414;en-FK;Falkland Islands;;238;500;2638;;;.fk
+FM;FSM;702;Palikir;OC;USD;Dollar;;FM;2081918;en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg;Micronesia;;583;691;107708;#####;^(\d{5})$;.fm
+FO;FRO;1399;Torshavn;EU;DKK;Krone;;FO;2622320;fo,da-FO;Faroe Islands;;234;298;48228;FO-###;^(?:FO)*(\d{3})$;.fo
+FR;FRA;547030;Paris;EU;EUR;Euro;;FR;3017382;fr-FR,frp,br,co,ca,eu,oc;France;CH,DE,BE,LU,IT,AD,MC,ES;250;33;64768389;#####;^(\d{5})$;.fr
+GA;GAB;267667;Libreville;AF;XAF;Franc;;GB;2400553;fr-GA;Gabon;CM,GQ,CG;266;241;1545255;;;.ga
+GB;GBR;244820;London;EU;GBP;Pound;;UK;2635167;en-GB,cy-GB,gd;United Kingdom;IE;826;44;62348447;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;.uk
+GD;GRD;344;St. George's;NA;XCD;Dollar;;GJ;3580239;en-GD;Grenada;;308;+1-473;107818;;;.gd
+GE;GEO;69700;Tbilisi;AS;GEL;Lari;;GG;614540;ka,ru,hy,az;Georgia;AM,AZ,TR,RU;268;995;4630000;####;^(\d{4})$;.ge
+GF;GUF;91000;Cayenne;SA;EUR;Euro;;FG;3381670;fr-GF;French Guiana;SR,BR;254;594;195506;#####;^((97|98)3\d{2})$;.gf
+GG;GGY;78;St Peter Port;EU;GBP;Pound;;GK;3042362;en,fr;Guernsey;;831;+44-1481;65228;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;.gg
+GH;GHA;239460;Accra;AF;GHS;Cedi;;GH;2300660;en-GH,ak,ee,tw;Ghana;CI,TG,BF;288;233;24339838;;;.gh
+GI;GIB;6.5;Gibraltar;EU;GIP;Pound;;GI;2411586;en-GI,es,it,pt;Gibraltar;ES;292;350;27884;;;.gi
+GL;GRL;2166086;Nuuk;NA;DKK;Krone;;GL;3425505;kl,da-GL,en;Greenland;;304;299;56375;####;^(\d{4})$;.gl
+GM;GMB;11300;Banjul;AF;GMD;Dalasi;;GA;2413451;en-GM,mnk,wof,wo,ff;Gambia;SN;270;220;1593256;;;.gm
+GN;GIN;245857;Conakry;AF;GNF;Franc;;GV;2420477;fr-GN;Guinea;LR,SN,SL,CI,GW,ML;324;224;10324025;;;.gn
+GP;GLP;1780;Basse-Terre;NA;EUR;Euro;;GP;3579143;fr-GP;Guadeloupe;;312;590;443000;#####;^((97|98)\d{3})$;.gp
+GQ;GNQ;28051;Malabo;AF;XAF;Franc;;EK;2309096;es-GQ,fr;Equatorial Guinea;GA,CM;226;240;1014999;;;.gq
+GR;GRC;131940;Athens;EU;EUR;Euro;;GR;390903;el-GR,en,fr;Greece;AL,MK,TR,BG;300;30;11000000;### ##;^(\d{5})$;.gr
+GS;SGS;3903;Grytviken;AN;GBP;Pound;;SX;3474415;en;South Georgia and the South Sandwich Islands;;239;;30;;;.gs
+GT;GTM;108890;Guatemala City;NA;GTQ;Quetzal;;GT;3595528;es-GT;Guatemala;MX,HN,BZ,SV;320;502;13550440;#####;^(\d{5})$;.gt
+GU;GUM;549;Hagatna;OC;USD;Dollar;;GQ;4043988;en-GU,ch-GU;Guam;;316;+1-671;159358;969##;^(969\d{2})$;.gu
+GW;GNB;36120;Bissau;AF;XOF;Franc;;PU;2372248;pt-GW,pov;Guinea-Bissau;SN,GN;624;245;1565126;####;^(\d{4})$;.gw
+GY;GUY;214970;Georgetown;SA;GYD;Dollar;;GY;3378535;en-GY;Guyana;SR,BR,VE;328;592;748486;;;.gy
+HK;HKG;1092;Hong Kong;AS;HKD;Dollar;;HK;1819730;zh-HK,yue,zh,en;Hong Kong;;344;852;6898686;;;.hk
+HM;HMD;412;;AN;AUD;Dollar;;HM;1547314;;Heard Island and McDonald Islands;;334; ;0;;;.hm
+HN;HND;112090;Tegucigalpa;NA;HNL;Lempira;;HO;3608932;es-HN;Honduras;GT,NI,SV;340;504;7989415;@@####;^([A-Z]{2}\d{4})$;.hn
+HR;HRV;56542;Zagreb;EU;HRK;Kuna;;HR;3202326;hr-HR,sr;Croatia;HU,SI,BA,ME,RS;191;385;4284889;#####;^(?:HR)*(\d{5})$;.hr
+HT;HTI;27750;Port-au-Prince;NA;HTG;Gourde;;HA;3723988;ht,fr-HT;Haiti;DO;332;509;9648924;HT####;^(?:HT)*(\d{4})$;.ht
+HU;HUN;93030;Budapest;EU;HUF;Forint;;HU;719819;hu-HU;Hungary;SK,SI,RO,UA,HR,AT,RS;348;36;9982000;####;^(\d{4})$;.hu
+ID;IDN;1919440;Jakarta;AS;IDR;Rupiah;;ID;1643084;id,en,nl,jv;Indonesia;PG,TL,MY;360;62;242968342;#####;^(\d{5})$;.id
+IE;IRL;70280;Dublin;EU;EUR;Euro;;EI;2963597;en-IE,ga-IE;Ireland;GB;372;353;4622917;@@@ @@@@;^[A-Z]\d{2}$|^[A-Z]{3}[A-Z]{4}$;.ie
+IL;ISR;20770;Jerusalem;AS;ILS;Shekel;;IS;294640;he,ar-IL,en-IL,;Israel;SY,JO,LB,EG,PS;376;972;7353985;#####;^(\d{5})$;.il
+IM;IMN;572;Douglas;EU;GBP;Pound;;IM;3042225;en,gv;Isle of Man;;833;+44-1624;75049;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;.im
+IN;IND;3287590;New Delhi;AS;INR;Rupee;;IN;1269750;en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc;India;CN,NP,MM,BT,PK,BD;356;91;1173108018;######;^(\d{6})$;.in
+IO;IOT;60;Diego Garcia;AS;USD;Dollar;;IO;1282588;en-IO;British Indian Ocean Territory;;086;246;4000;;;.io
+IQ;IRQ;437072;Baghdad;AS;IQD;Dinar;;IZ;99237;ar-IQ,ku,hy;Iraq;SY,SA,IR,JO,TR,KW;368;964;29671605;#####;^(\d{5})$;.iq
+IR;IRN;1648000;Tehran;AS;IRR;Rial;;IR;130758;fa-IR,ku;Iran;TM,AF,IQ,AM,PK,AZ,TR;364;98;76923300;##########;^(\d{10})$;.ir
+IS;ISL;103000;Reykjavik;EU;ISK;Krona;;IC;2629691;is,en,de,da,sv,no;Iceland;;352;354;308910;###;^(\d{3})$;.is
+IT;ITA;301230;Rome;EU;EUR;Euro;;IT;3175395;it-IT,de-IT,fr-IT,sc,ca,co,sl;Italy;CH,VA,SI,SM,FR,AT;380;39;60340328;#####;^(\d{5})$;.it
+JE;JEY;116;Saint Helier;EU;GBP;Pound;;JE;3042142;en,pt;Jersey;;832;+44-1534;90812;@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA;^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$;.je
+JM;JAM;10991;Kingston;NA;JMD;Dollar;;JM;3489940;en-JM;Jamaica;;388;+1-876;2847232;;;.jm
+JO;JOR;92300;Amman;AS;JOD;Dinar;;JO;248816;ar-JO,en;Jordan;SY,SA,IQ,IL,PS;400;962;6407085;#####;^(\d{5})$;.jo
+JP;JPN;377835;Tokyo;AS;JPY;Yen;;JA;1861060;ja;Japan;;392;81;127288000;###-####;^\d{3}-\d{4}$;.jp
+KE;KEN;582650;Nairobi;AF;KES;Shilling;;KE;192950;en-KE,sw-KE;Kenya;ET,TZ,SS,SO,UG;404;254;40046566;#####;^(\d{5})$;.ke
+KG;KGZ;198500;Bishkek;AS;KGS;Som;;KG;1527747;ky,uz,ru;Kyrgyzstan;CN,TJ,UZ,KZ;417;996;5776500;######;^(\d{6})$;.kg
+KH;KHM;181040;Phnom Penh;AS;KHR;Riels;;CB;1831722;km,fr,en;Cambodia;LA,TH,VN;116;855;14453680;#####;^(\d{5})$;.kh
+KI;KIR;811;Tarawa;OC;AUD;Dollar;;KR;4030945;en-KI,gil;Kiribati;;296;686;92533;;;.ki
+KM;COM;2170;Moroni;AF;KMF;Franc;;CN;921929;ar,fr-KM;Comoros;;174;269;773407;;;.km
+KN;KNA;261;Basseterre;NA;XCD;Dollar;;SC;3575174;en-KN;Saint Kitts and Nevis;;659;+1-869;51134;;;.kn
+KP;PRK;120540;Pyongyang;AS;KPW;Won;;KN;1873107;ko-KP;North Korea;CN,KR,RU;408;850;22912177;###-###;^(\d{6})$;.kp
+KR;KOR;98480;Seoul;AS;KRW;Won;;KS;1835841;ko-KR,en;South Korea;KP;410;82;48422644;SEOUL ###-###;^(?:SEOUL)*(\d{6})$;.kr
+XK;XKX;10908;Pristina;EU;EUR;Euro;;KV;831053;sq,sr;Kosovo;RS,AL,MK,ME;0;;1800000;;;
+KW;KWT;17820;Kuwait City;AS;KWD;Dinar;;KU;285570;ar-KW,en;Kuwait;SA,IQ;414;965;2789132;#####;^(\d{5})$;.kw
+KY;CYM;262;George Town;NA;KYD;Dollar;;CJ;3580718;en-KY;Cayman Islands;;136;+1-345;44270;;;.ky
+KZ;KAZ;2717300;Astana;AS;KZT;Tenge;;KZ;1522867;kk,ru;Kazakhstan;TM,CN,KG,UZ,RU;398;7;15340000;######;^(\d{6})$;.kz
+LA;LAO;236800;Vientiane;AS;LAK;Kip;;LA;1655842;lo,fr,en;Laos;CN,MM,KH,TH,VN;418;856;6368162;#####;^(\d{5})$;.la
+LB;LBN;10400;Beirut;AS;LBP;Pound;;LE;272103;ar-LB,fr-LB,en,hy;Lebanon;SY,IL;422;961;4125247;#### ####|####;^(\d{4}(\d{4})?)$;.lb
+LC;LCA;616;Castries;NA;XCD;Dollar;;ST;3576468;en-LC;Saint Lucia;;662;+1-758;160922;;;.lc
+LI;LIE;160;Vaduz;EU;CHF;Franc;;LS;3042058;de-LI;Liechtenstein;CH,AT;438;423;35000;####;^(\d{4})$;.li
+LK;LKA;65610;Colombo;AS;LKR;Rupee;;CE;1227603;si,ta,en;Sri Lanka;;144;94;21513990;#####;^(\d{5})$;.lk
+LR;LBR;111370;Monrovia;AF;LRD;Dollar;;LI;2275384;en-LR;Liberia;SL,CI,GN;430;231;3685076;####;^(\d{4})$;.lr
+LS;LSO;30355;Maseru;AF;LSL;Loti;;LT;932692;en-LS,st,zu,xh;Lesotho;ZA;426;266;1919552;###;^(\d{3})$;.ls
+LT;LTU;65200;Vilnius;EU;EUR;Euro;;LH;597427;lt,ru,pl;Lithuania;PL,BY,RU,LV;440;370;2944459;LT-#####;^(?:LT)*(\d{5})$;.lt
+LU;LUX;2586;Luxembourg;EU;EUR;Euro;;LU;2960313;lb,de-LU,fr-LU;Luxembourg;DE,BE,FR;442;352;497538;L-####;^(?:L-)?\d{4}$;.lu
+LV;LVA;64589;Riga;EU;EUR;Euro;;LG;458258;lv,ru,lt;Latvia;LT,EE,BY,RU;428;371;2217969;LV-####;^(?:LV)*(\d{4})$;.lv
+LY;LBY;1759540;Tripoli;AF;LYD;Dinar;;LY;2215636;ar-LY,it,en;Libya;TD,NE,DZ,SD,TN,EG;434;218;6461454;;;.ly
+MA;MAR;446550;Rabat;AF;MAD;Dirham;;MO;2542007;ar-MA,fr;Morocco;DZ,EH,ES;504;212;31627428;#####;^(\d{5})$;.ma
+MC;MCO;1.95;Monaco;EU;EUR;Euro;;MN;2993457;fr-MC,en,it;Monaco;FR;492;377;32965;#####;^(\d{5})$;.mc
+MD;MDA;33843;Chisinau;EU;MDL;Leu;;MD;617790;ro,ru,gag,tr;Moldova;RO,UA;498;373;4324000;MD-####;^MD-\d{4}$;.md
+ME;MNE;14026;Podgorica;EU;EUR;Euro;;MJ;3194884;sr,hu,bs,sq,hr,rom;Montenegro;AL,HR,BA,RS,XK;499;382;666730;#####;^(\d{5})$;.me
+MF;MAF;53;Marigot;NA;EUR;Euro;;RN;3578421;fr;Saint Martin;SX;663;590;35925;### ###;;.gp
+MG;MDG;587040;Antananarivo;AF;MGA;Ariary;;MA;1062947;fr-MG,mg;Madagascar;;450;261;21281844;###;^(\d{3})$;.mg
+MH;MHL;181.3;Majuro;OC;USD;Dollar;;RM;2080185;mh,en-MH;Marshall Islands;;584;692;65859;;;.mh
+MK;MKD;25333;Skopje;EU;MKD;Denar;;MK;718075;mk,sq,tr,rmm,sr;Macedonia;AL,GR,BG,RS,XK;807;389;2062294;####;^(\d{4})$;.mk
+ML;MLI;1240000;Bamako;AF;XOF;Franc;;ML;2453866;fr-ML,bm;Mali;SN,NE,DZ,CI,GN,MR,BF;466;223;13796354;;;.ml
+MM;MMR;678500;Nay Pyi Taw;AS;MMK;Kyat;;BM;1327865;my;Myanmar;CN,LA,TH,BD,IN;104;95;53414374;#####;^(\d{5})$;.mm
+MN;MNG;1565000;Ulan Bator;AS;MNT;Tugrik;;MG;2029969;mn,ru;Mongolia;CN,RU;496;976;3086918;######;^(\d{6})$;.mn
+MO;MAC;254;Macao;AS;MOP;Pataca;;MC;1821275;zh,zh-MO,pt;Macao;;446;853;449198;;;.mo
+MP;MNP;477;Saipan;OC;USD;Dollar;;CQ;4041468;fil,tl,zh,ch-MP,en-MP;Northern Mariana Islands;;580;+1-670;53883;;;.mp
+MQ;MTQ;1100;Fort-de-France;NA;EUR;Euro;;MB;3570311;fr-MQ;Martinique;;474;596;432900;#####;^(\d{5})$;.mq
+MR;MRT;1030700;Nouakchott;AF;MRO;Ouguiya;;MR;2378080;ar-MR,fuc,snk,fr,mey,wo;Mauritania;SN,DZ,EH,ML;478;222;3205060;;;.mr
+MS;MSR;102;Plymouth;NA;XCD;Dollar;;MH;3578097;en-MS;Montserrat;;500;+1-664;9341;;;.ms
+MT;MLT;316;Valletta;EU;EUR;Euro;;MT;2562770;mt,en-MT;Malta;;470;356;403000;@@@ ####;^[A-Z]{3}\s?\d{4}$;.mt
+MU;MUS;2040;Port Louis;AF;MUR;Rupee;;MP;934292;en-MU,bho,fr;Mauritius;;480;230;1294104;;;.mu
+MV;MDV;300;Male;AS;MVR;Rufiyaa;;MV;1282028;dv,en;Maldives;;462;960;395650;#####;^(\d{5})$;.mv
+MW;MWI;118480;Lilongwe;AF;MWK;Kwacha;;MI;927384;ny,yao,tum,swk;Malawi;TZ,MZ,ZM;454;265;15447500;;;.mw
+MX;MEX;1972550;Mexico City;NA;MXN;Peso;;MX;3996063;es-MX;Mexico;GT,US,BZ;484;52;112468855;#####;^(\d{5})$;.mx
+MY;MYS;329750;Kuala Lumpur;AS;MYR;Ringgit;;MY;1733045;ms-MY,en,zh,ta,te,ml,pa,th;Malaysia;BN,TH,ID;458;60;28274729;#####;^(\d{5})$;.my
+MZ;MOZ;801590;Maputo;AF;MZN;Metical;;MZ;1036973;pt-MZ,vmw;Mozambique;ZW,TZ,SZ,ZA,ZM,MW;508;258;22061451;####;^(\d{4})$;.mz
+NA;NAM;825418;Windhoek;AF;NAD;Dollar;;WA;3355338;en-NA,af,de,hz,naq;Namibia;ZA,BW,ZM,AO;516;264;2128471;;;.na
+NC;NCL;19060;Noumea;OC;XPF;Franc;;NC;2139685;fr-NC;New Caledonia;;540;687;216494;#####;^(\d{5})$;.nc
+NE;NER;1267000;Niamey;AF;XOF;Franc;;NG;2440476;fr-NE,ha,kr,dje;Niger;TD,BJ,DZ,LY,BF,NG,ML;562;227;15878271;####;^(\d{4})$;.ne
+NF;NFK;34.6;Kingston;OC;AUD;Dollar;;NF;2155115;en-NF;Norfolk Island;;574;672;1828;####;^(\d{4})$;.nf
+NG;NGA;923768;Abuja;AF;NGN;Naira;;NI;2328926;en-NG,ha,yo,ig,ff;Nigeria;TD,NE,BJ,CM;566;234;154000000;######;^(\d{6})$;.ng
+NI;NIC;129494;Managua;NA;NIO;Cordoba;;NU;3617476;es-NI,en;Nicaragua;CR,HN;558;505;5995928;###-###-#;^(\d{7})$;.ni
+NL;NLD;41526;Amsterdam;EU;EUR;Euro;;NL;2750405;nl-NL,fy-NL;Netherlands;DE,BE;528;31;16645000;#### @@;^(\d{4}[A-Z]{2})$;.nl
+NO;NOR;324220;Oslo;EU;NOK;Krone;;NO;3144096;no,nb,nn,se,fi;Norway;FI,RU,SE;578;47;5009150;####;^(\d{4})$;.no
+NP;NPL;140800;Kathmandu;AS;NPR;Rupee;;NP;1282988;ne,en;Nepal;CN,IN;524;977;28951852;#####;^(\d{5})$;.np
+NR;NRU;21;Yaren;OC;AUD;Dollar;;NR;2110425;na,en-NR;Nauru;;520;674;10065;;;.nr
+NU;NIU;260;Alofi;OC;NZD;Dollar;;NE;4036232;niu,en-NU;Niue;;570;683;2166;;;.nu
+NZ;NZL;268680;Wellington;OC;NZD;Dollar;;NZ;2186224;en-NZ,mi;New Zealand;;554;64;4252277;####;^(\d{4})$;.nz
+OM;OMN;212460;Muscat;AS;OMR;Rial;;MU;286963;ar-OM,en,bal,ur;Oman;SA,YE,AE;512;968;2967717;###;^(\d{3})$;.om
+PA;PAN;78200;Panama City;NA;PAB;Balboa;;PM;3703430;es-PA,en;Panama;CR,CO;591;507;3410676;;;.pa
+PE;PER;1285220;Lima;SA;PEN;Sol;;PE;3932488;es-PE,qu,ay;Peru;EC,CL,BO,BR,CO;604;51;29907003;;;.pe
+PF;PYF;4167;Papeete;OC;XPF;Franc;;FP;4030656;fr-PF,ty;French Polynesia;;258;689;270485;#####;^((97|98)7\d{2})$;.pf
+PG;PNG;462840;Port Moresby;OC;PGK;Kina;;PP;2088628;en-PG,ho,meu,tpi;Papua New Guinea;ID;598;675;6064515;###;^(\d{3})$;.pg
+PH;PHL;300000;Manila;AS;PHP;Peso;;RP;1694008;tl,en-PH,fil;Philippines;;608;63;99900177;####;^(\d{4})$;.ph
+PK;PAK;803940;Islamabad;AS;PKR;Rupee;;PK;1168579;ur-PK,en-PK,pa,sd,ps,brh;Pakistan;CN,AF,IR,IN;586;92;184404791;#####;^(\d{5})$;.pk
+PL;POL;312685;Warsaw;EU;PLN;Zloty;;PL;798544;pl;Poland;DE,LT,SK,CZ,BY,UA,RU;616;48;38500000;##-###;^\d{2}-\d{3}$;.pl
+PM;SPM;242;Saint-Pierre;NA;EUR;Euro;;SB;3424932;fr-PM;Saint Pierre and Miquelon;;666;508;7012;#####;^(97500)$;.pm
+PN;PCN;47;Adamstown;OC;NZD;Dollar;;PC;4030699;en-PN;Pitcairn;;612;870;46;;;.pn
+PR;PRI;9104;San Juan;NA;USD;Dollar;;RQ;4566966;en-PR,es-PR;Puerto Rico;;630;+1-787 and 1-939;3916632;#####-####;^00[679]\d{2}(?:-\d{4})?$;.pr
+PS;PSE;5970;East Jerusalem;AS;ILS;Shekel;;WE;6254930;ar-PS;Palestinian Territory;JO,IL,EG;275;970;3800000;;;.ps
+PT;PRT;92391;Lisbon;EU;EUR;Euro;;PO;2264397;pt-PT,mwl;Portugal;ES;620;351;10676000;####-###;^\d{4}-\d{3}\s?[a-zA-Z]{0,25}$;.pt
+PW;PLW;458;Melekeok;OC;USD;Dollar;;PS;1559582;pau,sov,en-PW,tox,ja,fil,zh;Palau;;585;680;19907;96940;^(96940)$;.pw
+PY;PRY;406750;Asuncion;SA;PYG;Guarani;;PA;3437598;es-PY,gn;Paraguay;BO,BR,AR;600;595;6375830;####;^(\d{4})$;.py
+QA;QAT;11437;Doha;AS;QAR;Rial;;QA;289688;ar-QA,es;Qatar;SA;634;974;840926;;;.qa
+RE;REU;2517;Saint-Denis;AF;EUR;Euro;;RE;935317;fr-RE;Reunion;;638;262;776948;#####;^((97|98)(4|7|8)\d{2})$;.re
+RO;ROU;237500;Bucharest;EU;RON;Leu;;RO;798549;ro,hu,rom;Romania;MD,HU,UA,BG,RS;642;40;21959278;######;^(\d{6})$;.ro
+RS;SRB;88361;Belgrade;EU;RSD;Dinar;;RI;6290252;sr,hu,bs,rom;Serbia;AL,HU,MK,RO,HR,BA,BG,ME,XK;688;381;7344847;######;^(\d{6})$;.rs
+RU;RUS;17100000;Moscow;EU;RUB;Ruble;;RS;2017370;ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog;Russia;GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP;643;7;140702000;######;^(\d{6})$;.ru
+RW;RWA;26338;Kigali;AF;RWF;Franc;;RW;49518;rw,en-RW,fr-RW,sw;Rwanda;TZ,CD,BI,UG;646;250;11055976;;;.rw
+SA;SAU;1960582;Riyadh;AS;SAR;Rial;;SA;102358;ar-SA;Saudi Arabia;QA,OM,IQ,YE,JO,AE,KW;682;966;25731776;#####;^(\d{5})$;.sa
+SB;SLB;28450;Honiara;OC;SBD;Dollar;;BP;2103350;en-SB,tpi;Solomon Islands;;090;677;559198;;;.sb
+SC;SYC;455;Victoria;AF;SCR;Rupee;;SE;241170;en-SC,fr-SC;Seychelles;;690;248;88340;;;.sc
+SD;SDN;1861484;Khartoum;AF;SDG;Pound;;SU;366755;ar-SD,en,fia;Sudan;SS,TD,EG,ET,ER,LY,CF;729;249;35000000;#####;^(\d{5})$;.sd
+SS;SSD;644329;Juba;AF;SSP;Pound;;OD;7909807;en;South Sudan;CD,CF,ET,KE,SD,UG,;728;211;8260490;;;
+SE;SWE;449964;Stockholm;EU;SEK;Krona;;SW;2661886;sv-SE,se,sma,fi-SE;Sweden;NO,FI;752;46;9828655;### ##;^(?:SE)?\d{3}\s\d{2}$;.se
+SG;SGP;692.7;Singapore;AS;SGD;Dollar;;SN;1880251;cmn,en-SG,ms-SG,ta-SG,zh-SG;Singapore;;702;65;4701069;######;^(\d{6})$;.sg
+SH;SHN;410;Jamestown;AF;SHP;Pound;;SH;3370751;en-SH;Saint Helena;;654;290;7460;STHL 1ZZ;^(STHL1ZZ)$;.sh
+SI;SVN;20273;Ljubljana;EU;EUR;Euro;;SI;3190538;sl,sh;Slovenia;HU,IT,HR,AT;705;386;2007000;####;^(?:SI)*(\d{4})$;.si
+SJ;SJM;62049;Longyearbyen;EU;NOK;Krone;;SV;607072;no,ru;Svalbard and Jan Mayen;;744;47;2550;;;.sj
+SK;SVK;48845;Bratislava;EU;EUR;Euro;;LO;3057568;sk,hu;Slovakia;PL,HU,CZ,UA,AT;703;421;5455000;### ##;^\d{3}\s?\d{2}$;.sk
+SL;SLE;71740;Freetown;AF;SLL;Leone;;SL;2403846;en-SL,men,tem;Sierra Leone;LR,GN;694;232;5245695;;;.sl
+SM;SMR;61.2;San Marino;EU;EUR;Euro;;SM;3168068;it-SM;San Marino;IT;674;378;31477;4789#;^(4789\d)$;.sm
+SN;SEN;196190;Dakar;AF;XOF;Franc;;SG;2245662;fr-SN,wo,fuc,mnk;Senegal;GN,MR,GW,GM,ML;686;221;12323252;#####;^(\d{5})$;.sn
+SO;SOM;637657;Mogadishu;AF;SOS;Shilling;;SO;51537;so-SO,ar-SO,it,en-SO;Somalia;ET,KE,DJ;706;252;10112453;@@  #####;^([A-Z]{2}\d{5})$;.so
+SR;SUR;163270;Paramaribo;SA;SRD;Dollar;;NS;3382998;nl-SR,en,srn,hns,jv;Suriname;GY,BR,GF;740;597;492829;;;.sr
+ST;STP;1001;Sao Tome;AF;STD;Dobra;;TP;2410758;pt-ST;Sao Tome and Principe;;678;239;175808;;;.st
+SV;SLV;21040;San Salvador;NA;USD;Dollar;;ES;3585968;es-SV;El Salvador;GT,HN;222;503;6052064;CP ####;^(?:CP)*(\d{4})$;.sv
+SX;SXM;21;Philipsburg;NA;ANG;Guilder;;NN;7609695;nl,en;Sint Maarten;MF;534;599;37429;;;.sx
+SY;SYR;185180;Damascus;AS;SYP;Pound;;SY;163843;ar-SY,ku,hy,arc,fr,en;Syria;IQ,JO,IL,TR,LB;760;963;22198110;;;.sy
+SZ;SWZ;17363;Mbabane;AF;SZL;Lilangeni;;WZ;934841;en-SZ,ss-SZ;Swaziland;ZA,MZ;748;268;1354051;@###;^([A-Z]\d{3})$;.sz
+TC;TCA;430;Cockburn Town;NA;USD;Dollar;;TK;3576916;en-TC;Turks and Caicos Islands;;796;+1-649;20556;TKCA 1ZZ;^(TKCA 1ZZ)$;.tc
+TD;TCD;1284000;N'Djamena;AF;XAF;Franc;;CD;2434508;fr-TD,ar-TD,sre;Chad;NE,LY,CF,SD,CM,NG;148;235;10543464;;;.td
+TF;ATF;7829;Port-aux-Francais;AN;EUR;Euro  ;;FS;1546748;fr;French Southern Territories;;260;;140;;;.tf
+TG;TGO;56785;Lome;AF;XOF;Franc;;TO;2363686;fr-TG,ee,hna,kbp,dag,ha;Togo;BJ,GH,BF;768;228;6587239;;;.tg
+TH;THA;514000;Bangkok;AS;THB;Baht;;TH;1605651;th,en;Thailand;LA,MM,KH,MY;764;66;67089500;#####;^(\d{5})$;.th
+TJ;TJK;143100;Dushanbe;AS;TJS;Somoni;;TI;1220409;tg,ru;Tajikistan;CN,AF,KG,UZ;762;992;7487489;######;^(\d{6})$;.tj
+TK;TKL;10;;OC;NZD;Dollar;;TL;4031074;tkl,en-TK;Tokelau;;772;690;1466;;;.tk
+TL;TLS;15007;Dili;OC;USD;Dollar;;TT;1966436;tet,pt-TL,id,en;East Timor;ID;626;670;1154625;;;.tl
+TM;TKM;488100;Ashgabat;AS;TMT;Manat;;TX;1218197;tk,ru,uz;Turkmenistan;AF,IR,UZ,KZ;795;993;4940916;######;^(\d{6})$;.tm
+TN;TUN;163610;Tunis;AF;TND;Dinar;;TS;2464461;ar-TN,fr;Tunisia;DZ,LY;788;216;10589025;####;^(\d{4})$;.tn
+TO;TON;748;Nuku'alofa;OC;TOP;Pa'anga;;TN;4032283;to,en-TO;Tonga;;776;676;122580;;;.to
+TR;TUR;780580;Ankara;AS;TRY;Lira;;TU;298795;tr-TR,ku,diq,az,av;Turkey;SY,GE,IQ,IR,GR,AM,AZ,BG;792;90;77804122;#####;^(\d{5})$;.tr
+TT;TTO;5128;Port of Spain;NA;TTD;Dollar;;TD;3573591;en-TT,hns,fr,es,zh;Trinidad and Tobago;;780;+1-868;1228691;;;.tt
+TV;TUV;26;Funafuti;OC;AUD;Dollar;;TV;2110297;tvl,en,sm,gil;Tuvalu;;798;688;10472;;;.tv
+TW;TWN;35980;Taipei;AS;TWD;Dollar;;TW;1668284;zh-TW,zh,nan,hak;Taiwan;;158;886;22894384;#####;^(\d{5})$;.tw
+TZ;TZA;945087;Dodoma;AF;TZS;Shilling;;TZ;149590;sw-TZ,en,ar;Tanzania;MZ,KE,CD,RW,ZM,BI,UG,MW;834;255;41892895;;;.tz
+UA;UKR;603700;Kiev;EU;UAH;Hryvnia;;UP;690791;uk,ru-UA,rom,pl,hu;Ukraine;PL,MD,HU,SK,BY,RO,RU;804;380;45415596;#####;^(\d{5})$;.ua
+UG;UGA;236040;Kampala;AF;UGX;Shilling;;UG;226074;en-UG,lg,sw,ar;Uganda;TZ,KE,SS,CD,RW;800;256;33398682;;;.ug
+UM;UMI;0;;OC;USD;Dollar ;;;5854968;en-UM;United States Minor Outlying Islands;;581;1;0;;;.um
+US;USA;9629091;Washington;NA;USD;Dollar;;US;6252001;en-US,es-US,haw,fr;United States;CA,MX,CU;840;1;310232863;#####-####;^\d{5}(-\d{4})?$;.us
+UY;URY;176220;Montevideo;SA;UYU;Peso;;UY;3439705;es-UY;Uruguay;BR,AR;858;598;3477000;#####;^(\d{5})$;.uy
+UZ;UZB;447400;Tashkent;AS;UZS;Som;;UZ;1512440;uz,ru,tg;Uzbekistan;TM,AF,KG,TJ,KZ;860;998;27865738;######;^(\d{6})$;.uz
+VA;VAT;0.44;Vatican City;EU;EUR;Euro;;VT;3164670;la,it,fr;Vatican;IT;336;379;921;#####;^(\d{5})$;.va
+VC;VCT;389;Kingstown;NA;XCD;Dollar;;VC;3577815;en-VC,fr;Saint Vincent and the Grenadines;;670;+1-784;104217;;;.vc
+VE;VEN;912050;Caracas;SA;VEF;Bolivar;;VE;3625428;es-VE;Venezuela;GY,BR,CO;862;58;27223228;####;^(\d{4})$;.ve
+VG;VGB;153;Road Town;NA;USD;Dollar;;VI;3577718;en-VG;British Virgin Islands;;092;+1-284;21730;;;.vg
+VI;VIR;352;Charlotte Amalie;NA;USD;Dollar;;VQ;4796775;en-VI;U.S. Virgin Islands;;850;+1-340;108708;#####-####;^008\d{2}(?:-\d{4})?$;.vi
+VN;VNM;329560;Hanoi;AS;VND;Dong;;VM;1562822;vi,en,fr,zh,km;Vietnam;CN,LA,KH;704;84;89571130;######;^(\d{6})$;.vn
+VU;VUT;12200;Port Vila;OC;VUV;Vatu;;NH;2134431;bi,en-VU,fr-VU;Vanuatu;;548;678;221552;;;.vu
+WF;WLF;274;Mata Utu;OC;XPF;Franc;;WF;4034749;wls,fud,fr-WF;Wallis and Futuna;;876;681;16025;#####;^(986\d{2})$;.wf
+WS;WSM;2944;Apia;OC;WST;Tala;;WS;4034894;sm,en-WS;Samoa;;882;685;192001;;;.ws
+YE;YEM;527970;Sanaa;AS;YER;Rial;;YM;69543;ar-YE;Yemen;SA,OM;887;967;23495361;;;.ye
+YT;MYT;374;Mamoudzou;AF;EUR;Euro;;MF;1024031;fr-YT;Mayotte;;175;262;159042;#####;^(\d{5})$;.yt
+ZA;ZAF;1219912;Pretoria;AF;ZAR;Rand;;SF;953987;zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr;South Africa;ZW,SZ,MZ,BW,NA,LS;710;27;49000000;####;^(\d{4})$;.za
+ZM;ZMB;752614;Lusaka;AF;ZMW;Kwacha;;ZA;895949;en-ZM,bem,loz,lun,lue,ny,toi;Zambia;ZW,TZ,MZ,CD,NA,MW,AO;894;260;13460305;#####;^(\d{5})$;.zm
+ZW;ZWE;390580;Harare;AF;ZWL;Dollar;;ZI;878675;en-ZW,sn,nr,nd;Zimbabwe;ZA,MZ,BW,ZM;716;263;13061000;;;.zw
+CS;SCG;102350;Belgrade;EU;RSD;Dinar;;YI;8505033;cu,hu,sq,sr;Serbia and Montenegro;AL,HU,MK,RO,HR,BA,BG;891;381;10829175;#####;^(\d{5})$;.cs
+AN;ANT;960;Willemstad;NA;ANG;Guilder;;NT;8505032;nl-AN,en,es;Netherlands Antilles;GP;530;599;300000;;;.an
