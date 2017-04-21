@@ -2,7 +2,7 @@
 
 # List of all countries worldwide
 This is a repository containing lists of all countries worldwide in several formats. The data is taken from
-[GeoNames](http://www.geonames.org/) and thus under [CC BY license](https://creativecommons.org/licenses/by/2.0/).
+[GeoNames](http://www.geonames.org/) and thus under [CC BY license](https://creativecommons.org/licenses/by/2.0/). I use it for [Programmer Map](http://programmermap.com) which lists the best programmers in all countries and many cities worldwide.
 
 ## Formats
 
